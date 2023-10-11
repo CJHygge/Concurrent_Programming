@@ -1,0 +1,148 @@
+Problem 1
+
+For this problem we used the same Search.java file provided to us so we did not include it.
+
+
+
+HAMLET.
+And therefore as a stranger give it welcome.
+There are more things in heaven and earth, Horatio,
+Than are dreamt of in your philosophy. But come,
+Here, as before, never, so help you mercy,
+How strange or odd soe’er I bear myself,—
+As I perchance hereafter shall think meet
+To put an antic disposition on—
+That you, at such times seeing me, never shall,
+With arms encumber’d thus, or this head-shake,
+Or by pronouncing of some doubtful phrase,
+As ‘Well, we know’, or ‘We could and if we would’,
+Or ‘If we list to speak’; or ‘There be and if they might’,
+Or such ambiguous giving out, to note
+That you know aught of me:—this not to do.
+So grace and mercy at your most need help you,
+Swear.
+
+
+[FIGURE 1.1]
+
+File=shakespeare.txt, length=5585488, pattern='And therefore as a stranger give it welcome.'
+ntasks=1, nthreads=1, warmups=0, runs=20
+executor: SINGLE
+
+Single task: Run no.  0: 1 occurrences found in 0,488627 s
+Single task: Run no.  1: 1 occurrences found in 0,471845 s
+Single task: Run no.  2: 1 occurrences found in 0,217078 s
+Single task: Run no.  3: 1 occurrences found in 0,215564 s
+Single task: Run no.  4: 1 occurrences found in 0,211760 s
+Single task: Run no.  5: 1 occurrences found in 0,214486 s
+Single task: Run no.  6: 1 occurrences found in 0,213683 s
+Single task: Run no.  7: 1 occurrences found in 0,215695 s
+Single task: Run no.  8: 1 occurrences found in 0,218431 s
+Single task: Run no.  9: 1 occurrences found in 0,212684 s
+Single task: Run no. 10: 1 occurrences found in 0,213344 s
+Single task: Run no. 11: 1 occurrences found in 0,209506 s
+Single task: Run no. 12: 1 occurrences found in 0,212699 s
+Single task: Run no. 13: 1 occurrences found in 0,216362 s
+Single task: Run no. 14: 1 occurrences found in 0,214536 s
+Single task: Run no. 15: 1 occurrences found in 0,215873 s
+Single task: Run no. 16: 1 occurrences found in 0,229763 s
+Single task: Run no. 17: 1 occurrences found in 0,216016 s
+Single task: Run no. 18: 1 occurrences found in 0,215838 s
+Single task: Run no. 19: 1 occurrences found in 0,214461 s
+
+Single task (avg.): 0,241912 s
+
+
+[FIGURE 1.2]
+
+File=shakespeare.txt, length=5585488, pattern='And therefore as a stranger give it welcome.'
+ntasks=1, nthreads=1, warmups=0, runs=20
+executor: SINGLE
+
+Single task: Run no.  0: 1 occurrences found in 0,479285 s
+Single task: Run no.  1: 1 occurrences found in 0,464535 s
+Single task: Run no.  2: 1 occurrences found in 0,238113 s
+Single task: Run no.  3: 1 occurrences found in 0,233001 s
+Single task: Run no.  4: 1 occurrences found in 0,232763 s
+Single task: Run no.  5: 1 occurrences found in 0,228330 s
+Single task: Run no.  6: 1 occurrences found in 0,229584 s
+Single task: Run no.  7: 1 occurrences found in 0,230709 s
+Single task: Run no.  8: 1 occurrences found in 0,229324 s
+Single task: Run no.  9: 1 occurrences found in 0,232097 s
+Single task: Run no. 10: 1 occurrences found in 0,230620 s
+Single task: Run no. 11: 1 occurrences found in 0,229078 s
+Single task: Run no. 12: 1 occurrences found in 0,230705 s
+Single task: Run no. 13: 1 occurrences found in 0,231754 s
+Single task: Run no. 14: 1 occurrences found in 0,230679 s
+Single task: Run no. 15: 1 occurrences found in 0,232554 s
+Single task: Run no. 16: 1 occurrences found in 0,232383 s
+Single task: Run no. 17: 1 occurrences found in 0,229309 s
+Single task: Run no. 18: 1 occurrences found in 0,229007 s
+Single task: Run no. 19: 1 occurrences found in 0,233021 s
+
+Single task (avg.): 0,255343 s
+
+
+[FIGURE 1.3]
+
+
+File=shakespeare.txt, length=5585488, pattern='And therefore as a stranger give it welcome.'
+ntasks=1, nthreads=1, warmups=0, runs=20
+executor: SINGLE
+
+Single task: Run no.  0: 1 occurrences found in 0,485427 s
+Single task: Run no.  1: 1 occurrences found in 0,479816 s
+Single task: Run no.  2: 1 occurrences found in 0,217750 s
+Single task: Run no.  3: 1 occurrences found in 0,216818 s
+Single task: Run no.  4: 1 occurrences found in 0,214084 s
+Single task: Run no.  5: 1 occurrences found in 0,217664 s
+Single task: Run no.  6: 1 occurrences found in 0,220403 s
+Single task: Run no.  7: 1 occurrences found in 0,215079 s
+Single task: Run no.  8: 1 occurrences found in 0,217937 s
+Single task: Run no.  9: 1 occurrences found in 0,214857 s
+Single task: Run no. 10: 1 occurrences found in 0,216332 s
+Single task: Run no. 11: 1 occurrences found in 0,220147 s
+Single task: Run no. 12: 1 occurrences found in 0,218636 s
+Single task: Run no. 13: 1 occurrences found in 0,215828 s
+Single task: Run no. 14: 1 occurrences found in 0,213340 s
+Single task: Run no. 15: 1 occurrences found in 0,214664 s
+Single task: Run no. 16: 1 occurrences found in 0,215009 s
+Single task: Run no. 17: 1 occurrences found in 0,217896 s
+Single task: Run no. 18: 1 occurrences found in 0,222322 s
+Single task: Run no. 19: 1 occurrences found in 0,221115 s
+
+Single task (avg.): 0,243756 s
+
+[FIGURE 1.4]
+
+File=shakespeare.txt, length=5585488, pattern='Something is rotten in the state of Denmark.'
+ntasks=1, nthreads=1, warmups=2, runs=20
+executor: SINGLE
+
+Single task: Run no.  0: 1 occurrences found in 0,217297 s
+Single task: Run no.  1: 1 occurrences found in 0,213855 s
+Single task: Run no.  2: 1 occurrences found in 0,217689 s
+Single task: Run no.  3: 1 occurrences found in 0,217160 s
+Single task: Run no.  4: 1 occurrences found in 0,219154 s
+Single task: Run no.  5: 1 occurrences found in 0,217293 s
+Single task: Run no.  6: 1 occurrences found in 0,212952 s
+Single task: Run no.  7: 1 occurrences found in 0,219778 s
+Single task: Run no.  8: 1 occurrences found in 0,216182 s
+Single task: Run no.  9: 1 occurrences found in 0,217687 s
+Single task: Run no. 10: 1 occurrences found in 0,218204 s
+Single task: Run no. 11: 1 occurrences found in 0,215649 s
+Single task: Run no. 12: 1 occurrences found in 0,214565 s
+Single task: Run no. 13: 1 occurrences found in 0,216473 s
+Single task: Run no. 14: 1 occurrences found in 0,215751 s
+Single task: Run no. 15: 1 occurrences found in 0,214218 s
+Single task: Run no. 16: 1 occurrences found in 0,215811 s
+Single task: Run no. 17: 1 occurrences found in 0,211063 s
+Single task: Run no. 18: 1 occurrences found in 0,216990 s
+Single task: Run no. 19: 1 occurrences found in 0,215594 s
+
+Single task (avg.): 0,216168 s
+
+Process finished with exit code 0
+
+
+

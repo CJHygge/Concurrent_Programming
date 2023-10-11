@@ -1,0 +1,1374 @@
+File=shakespeare.txt, length=5585488, pattern='And therefore as a stranger give it welcome.'
+ntasks=1, nthreads=1, warmups=2, runs=20
+executor: CACHED
+
+Single task: Run no.  0: 1 occurrences found in 0,234081 s
+Single task: Run no.  1: 1 occurrences found in 0,230117 s
+Single task: Run no.  2: 1 occurrences found in 0,231265 s
+Single task: Run no.  3: 1 occurrences found in 0,231248 s
+Single task: Run no.  4: 1 occurrences found in 0,227290 s
+Single task: Run no.  5: 1 occurrences found in 0,231961 s
+Single task: Run no.  6: 1 occurrences found in 0,232709 s
+Single task: Run no.  7: 1 occurrences found in 0,231061 s
+Single task: Run no.  8: 1 occurrences found in 0,231579 s
+Single task: Run no.  9: 1 occurrences found in 0,235243 s
+Single task: Run no. 10: 1 occurrences found in 0,236255 s
+Single task: Run no. 11: 1 occurrences found in 0,229716 s
+Single task: Run no. 12: 1 occurrences found in 0,231710 s
+Single task: Run no. 13: 1 occurrences found in 0,234598 s
+Single task: Run no. 14: 1 occurrences found in 0,228400 s
+Single task: Run no. 15: 1 occurrences found in 0,230520 s
+Single task: Run no. 16: 1 occurrences found in 0,236001 s
+Single task: Run no. 17: 1 occurrences found in 0,232890 s
+Single task: Run no. 18: 1 occurrences found in 0,228470 s
+Single task: Run no. 19: 1 occurrences found in 0,237133 s
+
+Single task (avg.): 0,232112 s
+
+Using  1 tasks: Run no.  0: 1 occurrences found in 0,258456 s
+Using  1 tasks: Run no.  1: 1 occurrences found in 0,232967 s
+Using  1 tasks: Run no.  2: 1 occurrences found in 0,235279 s
+Using  1 tasks: Run no.  3: 1 occurrences found in 0,232148 s
+Using  1 tasks: Run no.  4: 1 occurrences found in 0,230449 s
+Using  1 tasks: Run no.  5: 1 occurrences found in 0,234421 s
+Using  1 tasks: Run no.  6: 1 occurrences found in 0,235752 s
+Using  1 tasks: Run no.  7: 1 occurrences found in 0,233751 s
+Using  1 tasks: Run no.  8: 1 occurrences found in 0,226492 s
+Using  1 tasks: Run no.  9: 1 occurrences found in 0,228905 s
+Using  1 tasks: Run no. 10: 1 occurrences found in 0,229470 s
+Using  1 tasks: Run no. 11: 1 occurrences found in 0,229622 s
+Using  1 tasks: Run no. 12: 1 occurrences found in 0,232183 s
+Using  1 tasks: Run no. 13: 1 occurrences found in 0,231091 s
+Using  1 tasks: Run no. 14: 1 occurrences found in 0,229192 s
+Using  1 tasks: Run no. 15: 1 occurrences found in 0,231537 s
+Using  1 tasks: Run no. 16: 1 occurrences found in 0,232534 s
+Using  1 tasks: Run no. 17: 1 occurrences found in 0,230010 s
+Using  1 tasks: Run no. 18: 1 occurrences found in 0,228294 s
+Using  1 tasks: Run no. 19: 1 occurrences found in 0,230783 s
+
+Using  1 tasks (avg.): 0,232667 s
+
+
+Average speedup: 1,00
+
+
+Process finished with exit code 0
+
+
+
+File=shakespeare.txt, length=5585488, pattern='And therefore as a stranger give it welcome.'
+ntasks=2, nthreads=1, warmups=2, runs=20
+executor: CACHED
+
+Single task: Run no.  0: 1 occurrences found in 0,227059 s
+Single task: Run no.  1: 1 occurrences found in 0,225189 s
+Single task: Run no.  2: 1 occurrences found in 0,237376 s
+Single task: Run no.  3: 1 occurrences found in 0,224923 s
+Single task: Run no.  4: 1 occurrences found in 0,226261 s
+Single task: Run no.  5: 1 occurrences found in 0,227914 s
+Single task: Run no.  6: 1 occurrences found in 0,222963 s
+Single task: Run no.  7: 1 occurrences found in 0,226463 s
+Single task: Run no.  8: 1 occurrences found in 0,227811 s
+Single task: Run no.  9: 1 occurrences found in 0,225304 s
+Single task: Run no. 10: 1 occurrences found in 0,224668 s
+Single task: Run no. 11: 1 occurrences found in 0,228505 s
+Single task: Run no. 12: 1 occurrences found in 0,225212 s
+Single task: Run no. 13: 1 occurrences found in 0,224322 s
+Single task: Run no. 14: 1 occurrences found in 0,225345 s
+Single task: Run no. 15: 1 occurrences found in 0,227456 s
+Single task: Run no. 16: 1 occurrences found in 0,226787 s
+Single task: Run no. 17: 1 occurrences found in 0,225831 s
+Single task: Run no. 18: 1 occurrences found in 0,224098 s
+Single task: Run no. 19: 1 occurrences found in 0,223950 s
+
+Single task (avg.): 0,226372 s
+
+Using  2 tasks: Run no.  0: 1 occurrences found in 0,114154 s
+Using  2 tasks: Run no.  1: 1 occurrences found in 0,116071 s
+Using  2 tasks: Run no.  2: 1 occurrences found in 0,115917 s
+Using  2 tasks: Run no.  3: 1 occurrences found in 0,117163 s
+Using  2 tasks: Run no.  4: 1 occurrences found in 0,116536 s
+Using  2 tasks: Run no.  5: 1 occurrences found in 0,113502 s
+Using  2 tasks: Run no.  6: 1 occurrences found in 0,116117 s
+Using  2 tasks: Run no.  7: 1 occurrences found in 0,114070 s
+Using  2 tasks: Run no.  8: 1 occurrences found in 0,114853 s
+Using  2 tasks: Run no.  9: 1 occurrences found in 0,115536 s
+Using  2 tasks: Run no. 10: 1 occurrences found in 0,119157 s
+Using  2 tasks: Run no. 11: 1 occurrences found in 0,118013 s
+Using  2 tasks: Run no. 12: 1 occurrences found in 0,117443 s
+Using  2 tasks: Run no. 13: 1 occurrences found in 0,115853 s
+Using  2 tasks: Run no. 14: 1 occurrences found in 0,115139 s
+Using  2 tasks: Run no. 15: 1 occurrences found in 0,116064 s
+Using  2 tasks: Run no. 16: 1 occurrences found in 0,119386 s
+Using  2 tasks: Run no. 17: 1 occurrences found in 0,114760 s
+Using  2 tasks: Run no. 18: 1 occurrences found in 0,116679 s
+Using  2 tasks: Run no. 19: 1 occurrences found in 0,115773 s
+
+Using  2 tasks (avg.): 0,116109 s
+
+
+Average speedup: 1,95
+
+
+
+File=shakespeare.txt, length=5585488, pattern='And therefore as a stranger give it welcome.'
+ntasks=3, nthreads=1, warmups=2, runs=20
+executor: CACHED
+
+Single task: Run no.  0: 1 occurrences found in 0,230160 s
+Single task: Run no.  1: 1 occurrences found in 0,234859 s
+Single task: Run no.  2: 1 occurrences found in 0,227665 s
+Single task: Run no.  3: 1 occurrences found in 0,230522 s
+Single task: Run no.  4: 1 occurrences found in 0,231277 s
+Single task: Run no.  5: 1 occurrences found in 0,235430 s
+Single task: Run no.  6: 1 occurrences found in 0,231173 s
+Single task: Run no.  7: 1 occurrences found in 0,229236 s
+Single task: Run no.  8: 1 occurrences found in 0,234076 s
+Single task: Run no.  9: 1 occurrences found in 0,228990 s
+Single task: Run no. 10: 1 occurrences found in 0,229704 s
+Single task: Run no. 11: 1 occurrences found in 0,229911 s
+Single task: Run no. 12: 1 occurrences found in 0,232386 s
+Single task: Run no. 13: 1 occurrences found in 0,229463 s
+Single task: Run no. 14: 1 occurrences found in 0,226852 s
+Single task: Run no. 15: 1 occurrences found in 0,227746 s
+Single task: Run no. 16: 1 occurrences found in 0,234163 s
+Single task: Run no. 17: 1 occurrences found in 0,230721 s
+Single task: Run no. 18: 1 occurrences found in 0,232312 s
+Single task: Run no. 19: 1 occurrences found in 0,233495 s
+
+Single task (avg.): 0,231007 s
+
+Using  3 tasks: Run no.  0: 1 occurrences found in 0,078895 s
+Using  3 tasks: Run no.  1: 1 occurrences found in 0,084087 s
+Using  3 tasks: Run no.  2: 1 occurrences found in 0,082803 s
+Using  3 tasks: Run no.  3: 1 occurrences found in 0,081574 s
+Using  3 tasks: Run no.  4: 1 occurrences found in 0,079354 s
+Using  3 tasks: Run no.  5: 1 occurrences found in 0,082352 s
+Using  3 tasks: Run no.  6: 1 occurrences found in 0,081737 s
+Using  3 tasks: Run no.  7: 1 occurrences found in 0,081794 s
+Using  3 tasks: Run no.  8: 1 occurrences found in 0,080515 s
+Using  3 tasks: Run no.  9: 1 occurrences found in 0,079707 s
+Using  3 tasks: Run no. 10: 1 occurrences found in 0,082030 s
+Using  3 tasks: Run no. 11: 1 occurrences found in 0,081775 s
+Using  3 tasks: Run no. 12: 1 occurrences found in 0,082691 s
+Using  3 tasks: Run no. 13: 1 occurrences found in 0,082281 s
+Using  3 tasks: Run no. 14: 1 occurrences found in 0,082282 s
+Using  3 tasks: Run no. 15: 1 occurrences found in 0,080328 s
+Using  3 tasks: Run no. 16: 1 occurrences found in 0,081307 s
+Using  3 tasks: Run no. 17: 1 occurrences found in 0,080405 s
+Using  3 tasks: Run no. 18: 1 occurrences found in 0,080207 s
+Using  3 tasks: Run no. 19: 1 occurrences found in 0,085927 s
+
+Using  3 tasks (avg.): 0,081603 s
+
+
+Average speedup: 2,83
+
+
+Process finished with exit code 0
+
+
+
+File=shakespeare.txt, length=5585488, pattern='And therefore as a stranger give it welcome.'
+ntasks=4, nthreads=1, warmups=2, runs=20
+executor: CACHED
+
+Single task: Run no.  0: 1 occurrences found in 0,239929 s
+Single task: Run no.  1: 1 occurrences found in 0,227508 s
+Single task: Run no.  2: 1 occurrences found in 0,232884 s
+Single task: Run no.  3: 1 occurrences found in 0,230530 s
+Single task: Run no.  4: 1 occurrences found in 0,231798 s
+Single task: Run no.  5: 1 occurrences found in 0,238010 s
+Single task: Run no.  6: 1 occurrences found in 0,235972 s
+Single task: Run no.  7: 1 occurrences found in 0,235064 s
+Single task: Run no.  8: 1 occurrences found in 0,229636 s
+Single task: Run no.  9: 1 occurrences found in 0,233286 s
+Single task: Run no. 10: 1 occurrences found in 0,231490 s
+Single task: Run no. 11: 1 occurrences found in 0,230824 s
+Single task: Run no. 12: 1 occurrences found in 0,228487 s
+Single task: Run no. 13: 1 occurrences found in 0,228159 s
+Single task: Run no. 14: 1 occurrences found in 0,230513 s
+Single task: Run no. 15: 1 occurrences found in 0,239476 s
+Single task: Run no. 16: 1 occurrences found in 0,231076 s
+Single task: Run no. 17: 1 occurrences found in 0,227004 s
+Single task: Run no. 18: 1 occurrences found in 0,237618 s
+Single task: Run no. 19: 1 occurrences found in 0,231338 s
+
+Single task (avg.): 0,232530 s
+
+Using  4 tasks: Run no.  0: 1 occurrences found in 0,062112 s
+Using  4 tasks: Run no.  1: 1 occurrences found in 0,059695 s
+Using  4 tasks: Run no.  2: 1 occurrences found in 0,061619 s
+Using  4 tasks: Run no.  3: 1 occurrences found in 0,065227 s
+Using  4 tasks: Run no.  4: 1 occurrences found in 0,062163 s
+Using  4 tasks: Run no.  5: 1 occurrences found in 0,062572 s
+Using  4 tasks: Run no.  6: 1 occurrences found in 0,061113 s
+Using  4 tasks: Run no.  7: 1 occurrences found in 0,061599 s
+Using  4 tasks: Run no.  8: 1 occurrences found in 0,059807 s
+Using  4 tasks: Run no.  9: 1 occurrences found in 0,060568 s
+Using  4 tasks: Run no. 10: 1 occurrences found in 0,059120 s
+Using  4 tasks: Run no. 11: 1 occurrences found in 0,061401 s
+Using  4 tasks: Run no. 12: 1 occurrences found in 0,061871 s
+Using  4 tasks: Run no. 13: 1 occurrences found in 0,061840 s
+Using  4 tasks: Run no. 14: 1 occurrences found in 0,061159 s
+Using  4 tasks: Run no. 15: 1 occurrences found in 0,060494 s
+Using  4 tasks: Run no. 16: 1 occurrences found in 0,061176 s
+Using  4 tasks: Run no. 17: 1 occurrences found in 0,061494 s
+Using  4 tasks: Run no. 18: 1 occurrences found in 0,061405 s
+Using  4 tasks: Run no. 19: 1 occurrences found in 0,060533 s
+
+Using  4 tasks (avg.): 0,061348 s
+
+
+Average speedup: 3,79
+
+
+Process finished with exit code 0
+
+
+
+File=shakespeare.txt, length=5585488, pattern='And therefore as a stranger give it welcome.'
+ntasks=5, nthreads=1, warmups=2, runs=20
+executor: CACHED
+
+Single task: Run no.  0: 1 occurrences found in 0,237329 s
+Single task: Run no.  1: 1 occurrences found in 0,231957 s
+Single task: Run no.  2: 1 occurrences found in 0,231608 s
+Single task: Run no.  3: 1 occurrences found in 0,232668 s
+Single task: Run no.  4: 1 occurrences found in 0,231547 s
+Single task: Run no.  5: 1 occurrences found in 0,229072 s
+Single task: Run no.  6: 1 occurrences found in 0,242905 s
+Single task: Run no.  7: 1 occurrences found in 0,229490 s
+Single task: Run no.  8: 1 occurrences found in 0,228737 s
+Single task: Run no.  9: 1 occurrences found in 0,237215 s
+Single task: Run no. 10: 1 occurrences found in 0,226263 s
+Single task: Run no. 11: 1 occurrences found in 0,229793 s
+Single task: Run no. 12: 1 occurrences found in 0,233797 s
+Single task: Run no. 13: 1 occurrences found in 0,231572 s
+Single task: Run no. 14: 1 occurrences found in 0,228468 s
+Single task: Run no. 15: 1 occurrences found in 0,227021 s
+Single task: Run no. 16: 1 occurrences found in 0,230757 s
+Single task: Run no. 17: 1 occurrences found in 0,231304 s
+Single task: Run no. 18: 1 occurrences found in 0,239159 s
+Single task: Run no. 19: 1 occurrences found in 0,233227 s
+
+Single task (avg.): 0,232194 s
+
+Using  5 tasks: Run no.  0: 1 occurrences found in 0,049179 s
+Using  5 tasks: Run no.  1: 1 occurrences found in 0,049056 s
+Using  5 tasks: Run no.  2: 1 occurrences found in 0,050265 s
+Using  5 tasks: Run no.  3: 1 occurrences found in 0,052127 s
+Using  5 tasks: Run no.  4: 1 occurrences found in 0,050326 s
+Using  5 tasks: Run no.  5: 1 occurrences found in 0,051437 s
+Using  5 tasks: Run no.  6: 1 occurrences found in 0,048982 s
+Using  5 tasks: Run no.  7: 1 occurrences found in 0,051305 s
+Using  5 tasks: Run no.  8: 1 occurrences found in 0,050491 s
+Using  5 tasks: Run no.  9: 1 occurrences found in 0,050909 s
+Using  5 tasks: Run no. 10: 1 occurrences found in 0,051905 s
+Using  5 tasks: Run no. 11: 1 occurrences found in 0,049137 s
+Using  5 tasks: Run no. 12: 1 occurrences found in 0,047825 s
+Using  5 tasks: Run no. 13: 1 occurrences found in 0,051858 s
+Using  5 tasks: Run no. 14: 1 occurrences found in 0,049982 s
+Using  5 tasks: Run no. 15: 1 occurrences found in 0,047428 s
+Using  5 tasks: Run no. 16: 1 occurrences found in 0,048497 s
+Using  5 tasks: Run no. 17: 1 occurrences found in 0,049994 s
+Using  5 tasks: Run no. 18: 1 occurrences found in 0,048039 s
+Using  5 tasks: Run no. 19: 1 occurrences found in 0,049502 s
+
+Using  5 tasks (avg.): 0,049912 s
+
+
+Average speedup: 4,65
+
+
+Process finished with exit code 0
+
+
+File=shakespeare.txt, length=5585488, pattern='And therefore as a stranger give it welcome.'
+ntasks=6, nthreads=1, warmups=2, runs=20
+executor: CACHED
+
+Single task: Run no.  0: 1 occurrences found in 0,215450 s
+Single task: Run no.  1: 1 occurrences found in 0,217166 s
+Single task: Run no.  2: 1 occurrences found in 0,214419 s
+Single task: Run no.  3: 1 occurrences found in 0,211947 s
+Single task: Run no.  4: 1 occurrences found in 0,215918 s
+Single task: Run no.  5: 1 occurrences found in 0,213761 s
+Single task: Run no.  6: 1 occurrences found in 0,217836 s
+Single task: Run no.  7: 1 occurrences found in 0,215901 s
+Single task: Run no.  8: 1 occurrences found in 0,215246 s
+Single task: Run no.  9: 1 occurrences found in 0,215083 s
+Single task: Run no. 10: 1 occurrences found in 0,214208 s
+Single task: Run no. 11: 1 occurrences found in 0,215410 s
+Single task: Run no. 12: 1 occurrences found in 0,216946 s
+Single task: Run no. 13: 1 occurrences found in 0,209725 s
+Single task: Run no. 14: 1 occurrences found in 0,216256 s
+Single task: Run no. 15: 1 occurrences found in 0,216023 s
+Single task: Run no. 16: 1 occurrences found in 0,214895 s
+Single task: Run no. 17: 1 occurrences found in 0,216776 s
+Single task: Run no. 18: 1 occurrences found in 0,210379 s
+Single task: Run no. 19: 1 occurrences found in 0,211225 s
+
+Single task (avg.): 0,214728 s
+
+Using  6 tasks: Run no.  0: 1 occurrences found in 0,039505 s
+Using  6 tasks: Run no.  1: 1 occurrences found in 0,038505 s
+Using  6 tasks: Run no.  2: 1 occurrences found in 0,038935 s
+Using  6 tasks: Run no.  3: 1 occurrences found in 0,039206 s
+Using  6 tasks: Run no.  4: 1 occurrences found in 0,038373 s
+Using  6 tasks: Run no.  5: 1 occurrences found in 0,039842 s
+Using  6 tasks: Run no.  6: 1 occurrences found in 0,039034 s
+Using  6 tasks: Run no.  7: 1 occurrences found in 0,038271 s
+Using  6 tasks: Run no.  8: 1 occurrences found in 0,040477 s
+Using  6 tasks: Run no.  9: 1 occurrences found in 0,039323 s
+Using  6 tasks: Run no. 10: 1 occurrences found in 0,039308 s
+Using  6 tasks: Run no. 11: 1 occurrences found in 0,038263 s
+Using  6 tasks: Run no. 12: 1 occurrences found in 0,038632 s
+Using  6 tasks: Run no. 13: 1 occurrences found in 0,040458 s
+Using  6 tasks: Run no. 14: 1 occurrences found in 0,040379 s
+Using  6 tasks: Run no. 15: 1 occurrences found in 0,039767 s
+Using  6 tasks: Run no. 16: 1 occurrences found in 0,038897 s
+Using  6 tasks: Run no. 17: 1 occurrences found in 0,039349 s
+Using  6 tasks: Run no. 18: 1 occurrences found in 0,039923 s
+Using  6 tasks: Run no. 19: 1 occurrences found in 0,041162 s
+
+Using  6 tasks (avg.): 0,039380 s
+
+
+Average speedup: 5,45
+
+
+Process finished with exit code 0
+
+
+File=shakespeare.txt, length=5585488, pattern='And therefore as a stranger give it welcome.'
+ntasks=7, nthreads=1, warmups=2, runs=20
+executor: CACHED
+
+Single task: Run no.  0: 1 occurrences found in 0,217282 s
+Single task: Run no.  1: 1 occurrences found in 0,214008 s
+Single task: Run no.  2: 1 occurrences found in 0,220143 s
+Single task: Run no.  3: 1 occurrences found in 0,217928 s
+Single task: Run no.  4: 1 occurrences found in 0,220088 s
+Single task: Run no.  5: 1 occurrences found in 0,212223 s
+Single task: Run no.  6: 1 occurrences found in 0,213220 s
+Single task: Run no.  7: 1 occurrences found in 0,215758 s
+Single task: Run no.  8: 1 occurrences found in 0,212523 s
+Single task: Run no.  9: 1 occurrences found in 0,218993 s
+Single task: Run no. 10: 1 occurrences found in 0,213506 s
+Single task: Run no. 11: 1 occurrences found in 0,215111 s
+Single task: Run no. 12: 1 occurrences found in 0,213010 s
+Single task: Run no. 13: 1 occurrences found in 0,212573 s
+Single task: Run no. 14: 1 occurrences found in 0,215413 s
+Single task: Run no. 15: 1 occurrences found in 0,222135 s
+Single task: Run no. 16: 1 occurrences found in 0,222006 s
+Single task: Run no. 17: 1 occurrences found in 0,215614 s
+Single task: Run no. 18: 1 occurrences found in 0,215123 s
+Single task: Run no. 19: 1 occurrences found in 0,218067 s
+
+Single task (avg.): 0,216236 s
+
+Using  7 tasks: Run no.  0: 1 occurrences found in 0,036066 s
+Using  7 tasks: Run no.  1: 1 occurrences found in 0,035808 s
+Using  7 tasks: Run no.  2: 1 occurrences found in 0,034049 s
+Using  7 tasks: Run no.  3: 1 occurrences found in 0,033561 s
+Using  7 tasks: Run no.  4: 1 occurrences found in 0,033570 s
+Using  7 tasks: Run no.  5: 1 occurrences found in 0,036822 s
+Using  7 tasks: Run no.  6: 1 occurrences found in 0,033809 s
+Using  7 tasks: Run no.  7: 1 occurrences found in 0,035186 s
+Using  7 tasks: Run no.  8: 1 occurrences found in 0,033949 s
+Using  7 tasks: Run no.  9: 1 occurrences found in 0,033308 s
+Using  7 tasks: Run no. 10: 1 occurrences found in 0,033086 s
+Using  7 tasks: Run no. 11: 1 occurrences found in 0,034280 s
+Using  7 tasks: Run no. 12: 1 occurrences found in 0,033350 s
+Using  7 tasks: Run no. 13: 1 occurrences found in 0,034906 s
+Using  7 tasks: Run no. 14: 1 occurrences found in 0,036657 s
+Using  7 tasks: Run no. 15: 1 occurrences found in 0,033929 s
+Using  7 tasks: Run no. 16: 1 occurrences found in 0,034253 s
+Using  7 tasks: Run no. 17: 1 occurrences found in 0,034341 s
+Using  7 tasks: Run no. 18: 1 occurrences found in 0,034226 s
+Using  7 tasks: Run no. 19: 1 occurrences found in 0,033660 s
+
+Using  7 tasks (avg.): 0,034441 s
+
+
+Average speedup: 6,28
+
+
+Process finished with exit code 0
+
+
+File=shakespeare.txt, length=5585488, pattern='And therefore as a stranger give it welcome.'
+ntasks=8, nthreads=1, warmups=2, runs=20
+executor: CACHED
+
+Single task: Run no.  0: 1 occurrences found in 0,226004 s
+Single task: Run no.  1: 1 occurrences found in 0,226067 s
+Single task: Run no.  2: 1 occurrences found in 0,225003 s
+Single task: Run no.  3: 1 occurrences found in 0,228566 s
+Single task: Run no.  4: 1 occurrences found in 0,225074 s
+Single task: Run no.  5: 1 occurrences found in 0,227503 s
+Single task: Run no.  6: 1 occurrences found in 0,229666 s
+Single task: Run no.  7: 1 occurrences found in 0,229452 s
+Single task: Run no.  8: 1 occurrences found in 0,223326 s
+Single task: Run no.  9: 1 occurrences found in 0,227773 s
+Single task: Run no. 10: 1 occurrences found in 0,233316 s
+Single task: Run no. 11: 1 occurrences found in 0,228612 s
+Single task: Run no. 12: 1 occurrences found in 0,230518 s
+Single task: Run no. 13: 1 occurrences found in 0,230556 s
+Single task: Run no. 14: 1 occurrences found in 0,225755 s
+Single task: Run no. 15: 1 occurrences found in 0,226543 s
+Single task: Run no. 16: 1 occurrences found in 0,223641 s
+Single task: Run no. 17: 1 occurrences found in 0,229270 s
+Single task: Run no. 18: 1 occurrences found in 0,221989 s
+Single task: Run no. 19: 1 occurrences found in 0,224475 s
+
+Single task (avg.): 0,227155 s
+
+Using  8 tasks: Run no.  0: 1 occurrences found in 0,030430 s
+Using  8 tasks: Run no.  1: 1 occurrences found in 0,029385 s
+Using  8 tasks: Run no.  2: 1 occurrences found in 0,030123 s
+Using  8 tasks: Run no.  3: 1 occurrences found in 0,033688 s
+Using  8 tasks: Run no.  4: 1 occurrences found in 0,033521 s
+Using  8 tasks: Run no.  5: 1 occurrences found in 0,035379 s
+Using  8 tasks: Run no.  6: 1 occurrences found in 0,035359 s
+Using  8 tasks: Run no.  7: 1 occurrences found in 0,033145 s
+Using  8 tasks: Run no.  8: 1 occurrences found in 0,031717 s
+Using  8 tasks: Run no.  9: 1 occurrences found in 0,038293 s
+Using  8 tasks: Run no. 10: 1 occurrences found in 0,031108 s
+Using  8 tasks: Run no. 11: 1 occurrences found in 0,031549 s
+Using  8 tasks: Run no. 12: 1 occurrences found in 0,037664 s
+Using  8 tasks: Run no. 13: 1 occurrences found in 0,033838 s
+Using  8 tasks: Run no. 14: 1 occurrences found in 0,030312 s
+Using  8 tasks: Run no. 15: 1 occurrences found in 0,029346 s
+Using  8 tasks: Run no. 16: 1 occurrences found in 0,029768 s
+Using  8 tasks: Run no. 17: 1 occurrences found in 0,032468 s
+Using  8 tasks: Run no. 18: 1 occurrences found in 0,034250 s
+Using  8 tasks: Run no. 19: 1 occurrences found in 0,036113 s
+
+Using  8 tasks (avg.): 0,032873 s
+
+
+Average speedup: 6,91
+
+
+Process finished with exit code 0
+
+
+File=shakespeare.txt, length=5585488, pattern='And therefore as a stranger give it welcome.'
+ntasks=9, nthreads=1, warmups=2, runs=20
+executor: CACHED
+
+Single task: Run no.  0: 1 occurrences found in 0,218977 s
+Single task: Run no.  1: 1 occurrences found in 0,216279 s
+Single task: Run no.  2: 1 occurrences found in 0,216061 s
+Single task: Run no.  3: 1 occurrences found in 0,215451 s
+Single task: Run no.  4: 1 occurrences found in 0,215092 s
+Single task: Run no.  5: 1 occurrences found in 0,216896 s
+Single task: Run no.  6: 1 occurrences found in 0,215938 s
+Single task: Run no.  7: 1 occurrences found in 0,214672 s
+Single task: Run no.  8: 1 occurrences found in 0,217948 s
+Single task: Run no.  9: 1 occurrences found in 0,216894 s
+Single task: Run no. 10: 1 occurrences found in 0,215608 s
+Single task: Run no. 11: 1 occurrences found in 0,215280 s
+Single task: Run no. 12: 1 occurrences found in 0,222114 s
+Single task: Run no. 13: 1 occurrences found in 0,212692 s
+Single task: Run no. 14: 1 occurrences found in 0,213413 s
+Single task: Run no. 15: 1 occurrences found in 0,217727 s
+Single task: Run no. 16: 1 occurrences found in 0,215393 s
+Single task: Run no. 17: 1 occurrences found in 0,215572 s
+Single task: Run no. 18: 1 occurrences found in 0,220615 s
+Single task: Run no. 19: 1 occurrences found in 0,217734 s
+
+Single task (avg.): 0,216518 s
+
+Using  9 tasks: Run no.  0: 1 occurrences found in 0,040394 s
+Using  9 tasks: Run no.  1: 1 occurrences found in 0,042558 s
+Using  9 tasks: Run no.  2: 1 occurrences found in 0,042532 s
+Using  9 tasks: Run no.  3: 1 occurrences found in 0,036857 s
+Using  9 tasks: Run no.  4: 1 occurrences found in 0,046053 s
+Using  9 tasks: Run no.  5: 1 occurrences found in 0,051229 s
+Using  9 tasks: Run no.  6: 1 occurrences found in 0,048795 s
+Using  9 tasks: Run no.  7: 1 occurrences found in 0,038228 s
+Using  9 tasks: Run no.  8: 1 occurrences found in 0,044549 s
+Using  9 tasks: Run no.  9: 1 occurrences found in 0,044893 s
+Using  9 tasks: Run no. 10: 1 occurrences found in 0,043426 s
+Using  9 tasks: Run no. 11: 1 occurrences found in 0,036597 s
+Using  9 tasks: Run no. 12: 1 occurrences found in 0,042159 s
+Using  9 tasks: Run no. 13: 1 occurrences found in 0,049576 s
+Using  9 tasks: Run no. 14: 1 occurrences found in 0,041281 s
+Using  9 tasks: Run no. 15: 1 occurrences found in 0,049324 s
+Using  9 tasks: Run no. 16: 1 occurrences found in 0,044291 s
+Using  9 tasks: Run no. 17: 1 occurrences found in 0,039077 s
+Using  9 tasks: Run no. 18: 1 occurrences found in 0,039698 s
+Using  9 tasks: Run no. 19: 1 occurrences found in 0,041729 s
+
+Using  9 tasks (avg.): 0,043162 s
+
+
+Average speedup: 5,02
+
+
+Process finished with exit code 0
+
+
+
+File=shakespeare.txt, length=5585488, pattern='And therefore as a stranger give it welcome.'
+ntasks=10, nthreads=1, warmups=2, runs=20
+executor: CACHED
+
+Single task: Run no.  0: 1 occurrences found in 0,469120 s
+Single task: Run no.  1: 1 occurrences found in 0,216443 s
+Single task: Run no.  2: 1 occurrences found in 0,221427 s
+Single task: Run no.  3: 1 occurrences found in 0,217669 s
+Single task: Run no.  4: 1 occurrences found in 0,217219 s
+Single task: Run no.  5: 1 occurrences found in 0,216915 s
+Single task: Run no.  6: 1 occurrences found in 0,217511 s
+Single task: Run no.  7: 1 occurrences found in 0,217406 s
+Single task: Run no.  8: 1 occurrences found in 0,219522 s
+Single task: Run no.  9: 1 occurrences found in 0,225695 s
+Single task: Run no. 10: 1 occurrences found in 0,217626 s
+Single task: Run no. 11: 1 occurrences found in 0,216078 s
+Single task: Run no. 12: 1 occurrences found in 0,226680 s
+Single task: Run no. 13: 1 occurrences found in 0,221432 s
+Single task: Run no. 14: 1 occurrences found in 0,215576 s
+Single task: Run no. 15: 1 occurrences found in 0,216805 s
+Single task: Run no. 16: 1 occurrences found in 0,221011 s
+Single task: Run no. 17: 1 occurrences found in 0,219498 s
+Single task: Run no. 18: 1 occurrences found in 0,219410 s
+Single task: Run no. 19: 1 occurrences found in 0,217712 s
+
+Single task (avg.): 0,231538 s
+
+Using 10 tasks: Run no.  0: 1 occurrences found in 0,046246 s
+Using 10 tasks: Run no.  1: 1 occurrences found in 0,045846 s
+Using 10 tasks: Run no.  2: 1 occurrences found in 0,042644 s
+Using 10 tasks: Run no.  3: 1 occurrences found in 0,040009 s
+Using 10 tasks: Run no.  4: 1 occurrences found in 0,046708 s
+Using 10 tasks: Run no.  5: 1 occurrences found in 0,042390 s
+Using 10 tasks: Run no.  6: 1 occurrences found in 0,047956 s
+Using 10 tasks: Run no.  7: 1 occurrences found in 0,048142 s
+Using 10 tasks: Run no.  8: 1 occurrences found in 0,051966 s
+Using 10 tasks: Run no.  9: 1 occurrences found in 0,046009 s
+Using 10 tasks: Run no. 10: 1 occurrences found in 0,037679 s
+Using 10 tasks: Run no. 11: 1 occurrences found in 0,039147 s
+Using 10 tasks: Run no. 12: 1 occurrences found in 0,045210 s
+Using 10 tasks: Run no. 13: 1 occurrences found in 0,043414 s
+Using 10 tasks: Run no. 14: 1 occurrences found in 0,035934 s
+Using 10 tasks: Run no. 15: 1 occurrences found in 0,035790 s
+Using 10 tasks: Run no. 16: 1 occurrences found in 0,045626 s
+Using 10 tasks: Run no. 17: 1 occurrences found in 0,036562 s
+Using 10 tasks: Run no. 18: 1 occurrences found in 0,044249 s
+Using 10 tasks: Run no. 19: 1 occurrences found in 0,042173 s
+
+Using 10 tasks (avg.): 0,043185 s
+
+
+Average speedup: 5,36
+
+
+Process finished with exit code 0
+
+
+File=shakespeare.txt, length=5585488, pattern='And therefore as a stranger give it welcome.'
+ntasks=11, nthreads=1, warmups=2, runs=20
+executor: CACHED
+
+Single task: Run no.  0: 1 occurrences found in 0,231953 s
+Single task: Run no.  1: 1 occurrences found in 0,231141 s
+Single task: Run no.  2: 1 occurrences found in 0,232608 s
+Single task: Run no.  3: 1 occurrences found in 0,227231 s
+Single task: Run no.  4: 1 occurrences found in 0,230963 s
+Single task: Run no.  5: 1 occurrences found in 0,231670 s
+Single task: Run no.  6: 1 occurrences found in 0,230845 s
+Single task: Run no.  7: 1 occurrences found in 0,228150 s
+Single task: Run no.  8: 1 occurrences found in 0,227994 s
+Single task: Run no.  9: 1 occurrences found in 0,230289 s
+Single task: Run no. 10: 1 occurrences found in 0,229702 s
+Single task: Run no. 11: 1 occurrences found in 0,225305 s
+Single task: Run no. 12: 1 occurrences found in 0,225425 s
+Single task: Run no. 13: 1 occurrences found in 0,227418 s
+Single task: Run no. 14: 1 occurrences found in 0,227141 s
+Single task: Run no. 15: 1 occurrences found in 0,227403 s
+Single task: Run no. 16: 1 occurrences found in 0,227078 s
+Single task: Run no. 17: 1 occurrences found in 0,235330 s
+Single task: Run no. 18: 1 occurrences found in 0,230571 s
+Single task: Run no. 19: 1 occurrences found in 0,234993 s
+
+Single task (avg.): 0,229660 s
+
+Using 11 tasks: Run no.  0: 1 occurrences found in 0,044476 s
+Using 11 tasks: Run no.  1: 1 occurrences found in 0,040563 s
+Using 11 tasks: Run no.  2: 1 occurrences found in 0,035808 s
+Using 11 tasks: Run no.  3: 1 occurrences found in 0,036876 s
+Using 11 tasks: Run no.  4: 1 occurrences found in 0,040931 s
+Using 11 tasks: Run no.  5: 1 occurrences found in 0,043088 s
+Using 11 tasks: Run no.  6: 1 occurrences found in 0,044139 s
+Using 11 tasks: Run no.  7: 1 occurrences found in 0,042798 s
+Using 11 tasks: Run no.  8: 1 occurrences found in 0,044404 s
+Using 11 tasks: Run no.  9: 1 occurrences found in 0,037182 s
+Using 11 tasks: Run no. 10: 1 occurrences found in 0,043156 s
+Using 11 tasks: Run no. 11: 1 occurrences found in 0,043501 s
+Using 11 tasks: Run no. 12: 1 occurrences found in 0,038518 s
+Using 11 tasks: Run no. 13: 1 occurrences found in 0,042366 s
+Using 11 tasks: Run no. 14: 1 occurrences found in 0,035460 s
+Using 11 tasks: Run no. 15: 1 occurrences found in 0,044232 s
+Using 11 tasks: Run no. 16: 1 occurrences found in 0,042973 s
+Using 11 tasks: Run no. 17: 1 occurrences found in 0,034947 s
+Using 11 tasks: Run no. 18: 1 occurrences found in 0,042600 s
+Using 11 tasks: Run no. 19: 1 occurrences found in 0,042935 s
+
+Using 11 tasks (avg.): 0,041048 s
+
+
+Average speedup: 5,59
+
+
+Process finished with exit code 0
+
+
+File=shakespeare.txt, length=5585488, pattern='And therefore as a stranger give it welcome.'
+ntasks=12, nthreads=1, warmups=2, runs=20
+executor: CACHED
+
+Single task: Run no.  0: 1 occurrences found in 0,231787 s
+Single task: Run no.  1: 1 occurrences found in 0,230379 s
+Single task: Run no.  2: 1 occurrences found in 0,231433 s
+Single task: Run no.  3: 1 occurrences found in 0,231830 s
+Single task: Run no.  4: 1 occurrences found in 0,229498 s
+Single task: Run no.  5: 1 occurrences found in 0,229282 s
+Single task: Run no.  6: 1 occurrences found in 0,229534 s
+Single task: Run no.  7: 1 occurrences found in 0,231597 s
+Single task: Run no.  8: 1 occurrences found in 0,238442 s
+Single task: Run no.  9: 1 occurrences found in 0,237051 s
+Single task: Run no. 10: 1 occurrences found in 0,230254 s
+Single task: Run no. 11: 1 occurrences found in 0,232867 s
+Single task: Run no. 12: 1 occurrences found in 0,233415 s
+Single task: Run no. 13: 1 occurrences found in 0,236941 s
+Single task: Run no. 14: 1 occurrences found in 0,233665 s
+Single task: Run no. 15: 1 occurrences found in 0,234825 s
+Single task: Run no. 16: 1 occurrences found in 0,229862 s
+Single task: Run no. 17: 1 occurrences found in 0,234367 s
+Single task: Run no. 18: 1 occurrences found in 0,232571 s
+Single task: Run no. 19: 1 occurrences found in 0,233820 s
+
+Single task (avg.): 0,232671 s
+
+Using 12 tasks: Run no.  0: 1 occurrences found in 0,040123 s
+Using 12 tasks: Run no.  1: 1 occurrences found in 0,040965 s
+Using 12 tasks: Run no.  2: 1 occurrences found in 0,041110 s
+Using 12 tasks: Run no.  3: 1 occurrences found in 0,045718 s
+Using 12 tasks: Run no.  4: 1 occurrences found in 0,041715 s
+Using 12 tasks: Run no.  5: 1 occurrences found in 0,046944 s
+Using 12 tasks: Run no.  6: 1 occurrences found in 0,039310 s
+Using 12 tasks: Run no.  7: 1 occurrences found in 0,038726 s
+Using 12 tasks: Run no.  8: 1 occurrences found in 0,040628 s
+Using 12 tasks: Run no.  9: 1 occurrences found in 0,037912 s
+Using 12 tasks: Run no. 10: 1 occurrences found in 0,040399 s
+Using 12 tasks: Run no. 11: 1 occurrences found in 0,042463 s
+Using 12 tasks: Run no. 12: 1 occurrences found in 0,040868 s
+Using 12 tasks: Run no. 13: 1 occurrences found in 0,042778 s
+Using 12 tasks: Run no. 14: 1 occurrences found in 0,039722 s
+Using 12 tasks: Run no. 15: 1 occurrences found in 0,044387 s
+Using 12 tasks: Run no. 16: 1 occurrences found in 0,040050 s
+Using 12 tasks: Run no. 17: 1 occurrences found in 0,040528 s
+Using 12 tasks: Run no. 18: 1 occurrences found in 0,040000 s
+Using 12 tasks: Run no. 19: 1 occurrences found in 0,040589 s
+
+Using 12 tasks (avg.): 0,041247 s
+
+
+Average speedup: 5,64
+
+
+Process finished with exit code 0
+
+
+
+File=shakespeare.txt, length=5585488, pattern='And therefore as a stranger give it welcome.'
+ntasks=13, nthreads=1, warmups=2, runs=20
+executor: CACHED
+
+Single task: Run no.  0: 1 occurrences found in 0,219207 s
+Single task: Run no.  1: 1 occurrences found in 0,218629 s
+Single task: Run no.  2: 1 occurrences found in 0,215626 s
+Single task: Run no.  3: 1 occurrences found in 0,214858 s
+Single task: Run no.  4: 1 occurrences found in 0,218485 s
+Single task: Run no.  5: 1 occurrences found in 0,216719 s
+Single task: Run no.  6: 1 occurrences found in 0,214783 s
+Single task: Run no.  7: 1 occurrences found in 0,217331 s
+Single task: Run no.  8: 1 occurrences found in 0,211148 s
+Single task: Run no.  9: 1 occurrences found in 0,216041 s
+Single task: Run no. 10: 1 occurrences found in 0,210416 s
+Single task: Run no. 11: 1 occurrences found in 0,221101 s
+Single task: Run no. 12: 1 occurrences found in 0,211086 s
+Single task: Run no. 13: 1 occurrences found in 0,214638 s
+Single task: Run no. 14: 1 occurrences found in 0,214443 s
+Single task: Run no. 15: 1 occurrences found in 0,214175 s
+Single task: Run no. 16: 1 occurrences found in 0,207133 s
+Single task: Run no. 17: 1 occurrences found in 0,214627 s
+Single task: Run no. 18: 1 occurrences found in 0,214154 s
+Single task: Run no. 19: 1 occurrences found in 0,216933 s
+
+Single task (avg.): 0,215077 s
+
+Using 13 tasks: Run no.  0: 1 occurrences found in 0,035301 s
+Using 13 tasks: Run no.  1: 1 occurrences found in 0,035265 s
+Using 13 tasks: Run no.  2: 1 occurrences found in 0,036349 s
+Using 13 tasks: Run no.  3: 1 occurrences found in 0,035113 s
+Using 13 tasks: Run no.  4: 1 occurrences found in 0,035393 s
+Using 13 tasks: Run no.  5: 1 occurrences found in 0,033884 s
+Using 13 tasks: Run no.  6: 1 occurrences found in 0,035195 s
+Using 13 tasks: Run no.  7: 1 occurrences found in 0,036508 s
+Using 13 tasks: Run no.  8: 1 occurrences found in 0,035849 s
+Using 13 tasks: Run no.  9: 1 occurrences found in 0,036348 s
+Using 13 tasks: Run no. 10: 1 occurrences found in 0,036582 s
+Using 13 tasks: Run no. 11: 1 occurrences found in 0,035748 s
+Using 13 tasks: Run no. 12: 1 occurrences found in 0,035415 s
+Using 13 tasks: Run no. 13: 1 occurrences found in 0,035153 s
+Using 13 tasks: Run no. 14: 1 occurrences found in 0,035060 s
+Using 13 tasks: Run no. 15: 1 occurrences found in 0,040207 s
+Using 13 tasks: Run no. 16: 1 occurrences found in 0,042757 s
+Using 13 tasks: Run no. 17: 1 occurrences found in 0,041736 s
+Using 13 tasks: Run no. 18: 1 occurrences found in 0,042001 s
+Using 13 tasks: Run no. 19: 1 occurrences found in 0,040802 s
+
+Using 13 tasks (avg.): 0,037033 s
+
+
+Average speedup: 5,81
+
+
+Process finished with exit code 0
+
+
+File=shakespeare.txt, length=5585488, pattern='And therefore as a stranger give it welcome.'
+ntasks=14, nthreads=1, warmups=2, runs=20
+executor: CACHED
+
+Single task: Run no.  0: 1 occurrences found in 0,234157 s
+Single task: Run no.  1: 1 occurrences found in 0,226556 s
+Single task: Run no.  2: 1 occurrences found in 0,224709 s
+Single task: Run no.  3: 1 occurrences found in 0,227775 s
+Single task: Run no.  4: 1 occurrences found in 0,230526 s
+Single task: Run no.  5: 1 occurrences found in 0,230020 s
+Single task: Run no.  6: 1 occurrences found in 0,226135 s
+Single task: Run no.  7: 1 occurrences found in 0,227054 s
+Single task: Run no.  8: 1 occurrences found in 0,231841 s
+Single task: Run no.  9: 1 occurrences found in 0,231003 s
+Single task: Run no. 10: 1 occurrences found in 0,236191 s
+Single task: Run no. 11: 1 occurrences found in 0,235252 s
+Single task: Run no. 12: 1 occurrences found in 0,233645 s
+Single task: Run no. 13: 1 occurrences found in 0,230379 s
+Single task: Run no. 14: 1 occurrences found in 0,230866 s
+Single task: Run no. 15: 1 occurrences found in 0,230114 s
+Single task: Run no. 16: 1 occurrences found in 0,229625 s
+Single task: Run no. 17: 1 occurrences found in 0,231250 s
+Single task: Run no. 18: 1 occurrences found in 0,231880 s
+Single task: Run no. 19: 1 occurrences found in 0,230513 s
+
+Single task (avg.): 0,230474 s
+
+Using 14 tasks: Run no.  0: 1 occurrences found in 0,036420 s
+Using 14 tasks: Run no.  1: 1 occurrences found in 0,035859 s
+Using 14 tasks: Run no.  2: 1 occurrences found in 0,034674 s
+Using 14 tasks: Run no.  3: 1 occurrences found in 0,034778 s
+Using 14 tasks: Run no.  4: 1 occurrences found in 0,035059 s
+Using 14 tasks: Run no.  5: 1 occurrences found in 0,036606 s
+Using 14 tasks: Run no.  6: 1 occurrences found in 0,034898 s
+Using 14 tasks: Run no.  7: 1 occurrences found in 0,035241 s
+Using 14 tasks: Run no.  8: 1 occurrences found in 0,039658 s
+Using 14 tasks: Run no.  9: 1 occurrences found in 0,036107 s
+Using 14 tasks: Run no. 10: 1 occurrences found in 0,035617 s
+Using 14 tasks: Run no. 11: 1 occurrences found in 0,035256 s
+Using 14 tasks: Run no. 12: 1 occurrences found in 0,037524 s
+Using 14 tasks: Run no. 13: 1 occurrences found in 0,036909 s
+Using 14 tasks: Run no. 14: 1 occurrences found in 0,036672 s
+Using 14 tasks: Run no. 15: 1 occurrences found in 0,036096 s
+Using 14 tasks: Run no. 16: 1 occurrences found in 0,035581 s
+Using 14 tasks: Run no. 17: 1 occurrences found in 0,035893 s
+Using 14 tasks: Run no. 18: 1 occurrences found in 0,035048 s
+Using 14 tasks: Run no. 19: 1 occurrences found in 0,035278 s
+
+Using 14 tasks (avg.): 0,035959 s
+
+
+Average speedup: 6,41
+
+
+Process finished with exit code 0
+
+
+File=shakespeare.txt, length=5585488, pattern='And therefore as a stranger give it welcome.'
+ntasks=15, nthreads=1, warmups=2, runs=20
+executor: CACHED
+
+Single task: Run no.  0: 1 occurrences found in 0,228680 s
+Single task: Run no.  1: 1 occurrences found in 0,230497 s
+Single task: Run no.  2: 1 occurrences found in 0,228064 s
+Single task: Run no.  3: 1 occurrences found in 0,233457 s
+Single task: Run no.  4: 1 occurrences found in 0,229097 s
+Single task: Run no.  5: 1 occurrences found in 0,230553 s
+Single task: Run no.  6: 1 occurrences found in 0,229716 s
+Single task: Run no.  7: 1 occurrences found in 0,229203 s
+Single task: Run no.  8: 1 occurrences found in 0,226328 s
+Single task: Run no.  9: 1 occurrences found in 0,232244 s
+Single task: Run no. 10: 1 occurrences found in 0,231841 s
+Single task: Run no. 11: 1 occurrences found in 0,229966 s
+Single task: Run no. 12: 1 occurrences found in 0,233042 s
+Single task: Run no. 13: 1 occurrences found in 0,232018 s
+Single task: Run no. 14: 1 occurrences found in 0,231420 s
+Single task: Run no. 15: 1 occurrences found in 0,231115 s
+Single task: Run no. 16: 1 occurrences found in 0,230136 s
+Single task: Run no. 17: 1 occurrences found in 0,232481 s
+Single task: Run no. 18: 1 occurrences found in 0,229495 s
+Single task: Run no. 19: 1 occurrences found in 0,229009 s
+
+Single task (avg.): 0,230418 s
+
+Using 15 tasks: Run no.  0: 1 occurrences found in 0,032640 s
+Using 15 tasks: Run no.  1: 1 occurrences found in 0,033113 s
+Using 15 tasks: Run no.  2: 1 occurrences found in 0,032850 s
+Using 15 tasks: Run no.  3: 1 occurrences found in 0,033470 s
+Using 15 tasks: Run no.  4: 1 occurrences found in 0,036564 s
+Using 15 tasks: Run no.  5: 1 occurrences found in 0,037372 s
+Using 15 tasks: Run no.  6: 1 occurrences found in 0,033464 s
+Using 15 tasks: Run no.  7: 1 occurrences found in 0,034928 s
+Using 15 tasks: Run no.  8: 1 occurrences found in 0,033676 s
+Using 15 tasks: Run no.  9: 1 occurrences found in 0,036715 s
+Using 15 tasks: Run no. 10: 1 occurrences found in 0,036268 s
+Using 15 tasks: Run no. 11: 1 occurrences found in 0,035306 s
+Using 15 tasks: Run no. 12: 1 occurrences found in 0,033520 s
+Using 15 tasks: Run no. 13: 1 occurrences found in 0,038511 s
+Using 15 tasks: Run no. 14: 1 occurrences found in 0,034380 s
+Using 15 tasks: Run no. 15: 1 occurrences found in 0,038188 s
+Using 15 tasks: Run no. 16: 1 occurrences found in 0,033619 s
+Using 15 tasks: Run no. 17: 1 occurrences found in 0,036546 s
+Using 15 tasks: Run no. 18: 1 occurrences found in 0,033956 s
+Using 15 tasks: Run no. 19: 1 occurrences found in 0,034235 s
+
+Using 15 tasks (avg.): 0,034966 s
+
+
+Average speedup: 6,59
+
+
+Process finished with exit code 0
+
+
+
+File=shakespeare.txt, length=5585488, pattern='And therefore as a stranger give it welcome.'
+ntasks=16, nthreads=1, warmups=2, runs=20
+executor: CACHED
+
+Single task: Run no.  0: 1 occurrences found in 0,232544 s
+Single task: Run no.  1: 1 occurrences found in 0,231466 s
+Single task: Run no.  2: 1 occurrences found in 0,232041 s
+Single task: Run no.  3: 1 occurrences found in 0,233818 s
+Single task: Run no.  4: 1 occurrences found in 0,233087 s
+Single task: Run no.  5: 1 occurrences found in 0,227868 s
+Single task: Run no.  6: 1 occurrences found in 0,229316 s
+Single task: Run no.  7: 1 occurrences found in 0,229660 s
+Single task: Run no.  8: 1 occurrences found in 0,230529 s
+Single task: Run no.  9: 1 occurrences found in 0,226135 s
+Single task: Run no. 10: 1 occurrences found in 0,231526 s
+Single task: Run no. 11: 1 occurrences found in 0,225588 s
+Single task: Run no. 12: 1 occurrences found in 0,227058 s
+Single task: Run no. 13: 1 occurrences found in 0,243313 s
+Single task: Run no. 14: 1 occurrences found in 0,231414 s
+Single task: Run no. 15: 1 occurrences found in 0,230934 s
+Single task: Run no. 16: 1 occurrences found in 0,228778 s
+Single task: Run no. 17: 1 occurrences found in 0,230778 s
+Single task: Run no. 18: 1 occurrences found in 0,232678 s
+Single task: Run no. 19: 1 occurrences found in 0,231671 s
+
+Single task (avg.): 0,231010 s
+
+Using 16 tasks: Run no.  0: 1 occurrences found in 0,033696 s
+Using 16 tasks: Run no.  1: 1 occurrences found in 0,036351 s
+Using 16 tasks: Run no.  2: 1 occurrences found in 0,031502 s
+Using 16 tasks: Run no.  3: 1 occurrences found in 0,032417 s
+Using 16 tasks: Run no.  4: 1 occurrences found in 0,041128 s
+Using 16 tasks: Run no.  5: 1 occurrences found in 0,033792 s
+Using 16 tasks: Run no.  6: 1 occurrences found in 0,035389 s
+Using 16 tasks: Run no.  7: 1 occurrences found in 0,035111 s
+Using 16 tasks: Run no.  8: 1 occurrences found in 0,040924 s
+Using 16 tasks: Run no.  9: 1 occurrences found in 0,031712 s
+Using 16 tasks: Run no. 10: 1 occurrences found in 0,031688 s
+Using 16 tasks: Run no. 11: 1 occurrences found in 0,037731 s
+Using 16 tasks: Run no. 12: 1 occurrences found in 0,035281 s
+Using 16 tasks: Run no. 13: 1 occurrences found in 0,032906 s
+Using 16 tasks: Run no. 14: 1 occurrences found in 0,032409 s
+Using 16 tasks: Run no. 15: 1 occurrences found in 0,031155 s
+Using 16 tasks: Run no. 16: 1 occurrences found in 0,030408 s
+Using 16 tasks: Run no. 17: 1 occurrences found in 0,031118 s
+Using 16 tasks: Run no. 18: 1 occurrences found in 0,033583 s
+Using 16 tasks: Run no. 19: 1 occurrences found in 0,035761 s
+
+Using 16 tasks (avg.): 0,034203 s
+
+
+Average speedup: 6,75
+
+
+Process finished with exit code 0
+
+
+
+File=shakespeare.txt, length=5585488, pattern='And therefore as a stranger give it welcome.'
+ntasks=17, nthreads=1, warmups=2, runs=20
+executor: CACHED
+
+Single task: Run no.  0: 1 occurrences found in 0,233576 s
+Single task: Run no.  1: 1 occurrences found in 0,239743 s
+Single task: Run no.  2: 1 occurrences found in 0,227879 s
+Single task: Run no.  3: 1 occurrences found in 0,230303 s
+Single task: Run no.  4: 1 occurrences found in 0,232562 s
+Single task: Run no.  5: 1 occurrences found in 0,232289 s
+Single task: Run no.  6: 1 occurrences found in 0,233032 s
+Single task: Run no.  7: 1 occurrences found in 0,231331 s
+Single task: Run no.  8: 1 occurrences found in 0,231564 s
+Single task: Run no.  9: 1 occurrences found in 0,229269 s
+Single task: Run no. 10: 1 occurrences found in 0,229731 s
+Single task: Run no. 11: 1 occurrences found in 0,233621 s
+Single task: Run no. 12: 1 occurrences found in 0,230584 s
+Single task: Run no. 13: 1 occurrences found in 0,230550 s
+Single task: Run no. 14: 1 occurrences found in 0,228158 s
+Single task: Run no. 15: 1 occurrences found in 0,231941 s
+Single task: Run no. 16: 1 occurrences found in 0,228579 s
+Single task: Run no. 17: 1 occurrences found in 0,229339 s
+Single task: Run no. 18: 1 occurrences found in 0,229959 s
+Single task: Run no. 19: 1 occurrences found in 0,228290 s
+
+Single task (avg.): 0,231115 s
+
+Using 17 tasks: Run no.  0: 1 occurrences found in 0,037665 s
+Using 17 tasks: Run no.  1: 1 occurrences found in 0,035286 s
+Using 17 tasks: Run no.  2: 1 occurrences found in 0,042657 s
+Using 17 tasks: Run no.  3: 1 occurrences found in 0,041291 s
+Using 17 tasks: Run no.  4: 1 occurrences found in 0,041805 s
+Using 17 tasks: Run no.  5: 1 occurrences found in 0,036750 s
+Using 17 tasks: Run no.  6: 1 occurrences found in 0,035383 s
+Using 17 tasks: Run no.  7: 1 occurrences found in 0,040455 s
+Using 17 tasks: Run no.  8: 1 occurrences found in 0,040893 s
+Using 17 tasks: Run no.  9: 1 occurrences found in 0,037942 s
+Using 17 tasks: Run no. 10: 1 occurrences found in 0,041014 s
+Using 17 tasks: Run no. 11: 1 occurrences found in 0,033138 s
+Using 17 tasks: Run no. 12: 1 occurrences found in 0,038325 s
+Using 17 tasks: Run no. 13: 1 occurrences found in 0,038415 s
+Using 17 tasks: Run no. 14: 1 occurrences found in 0,040296 s
+Using 17 tasks: Run no. 15: 1 occurrences found in 0,041223 s
+Using 17 tasks: Run no. 16: 1 occurrences found in 0,040688 s
+Using 17 tasks: Run no. 17: 1 occurrences found in 0,035818 s
+Using 17 tasks: Run no. 18: 1 occurrences found in 0,045620 s
+Using 17 tasks: Run no. 19: 1 occurrences found in 0,040570 s
+
+Using 17 tasks (avg.): 0,039262 s
+
+
+Average speedup: 5,89
+
+
+Process finished with exit code 0
+
+
+
+File=shakespeare.txt, length=5585488, pattern='And therefore as a stranger give it welcome.'
+ntasks=18, nthreads=1, warmups=2, runs=20
+executor: CACHED
+
+Single task: Run no.  0: 1 occurrences found in 0,220237 s
+Single task: Run no.  1: 1 occurrences found in 0,216307 s
+Single task: Run no.  2: 1 occurrences found in 0,217569 s
+Single task: Run no.  3: 1 occurrences found in 0,213506 s
+Single task: Run no.  4: 1 occurrences found in 0,216305 s
+Single task: Run no.  5: 1 occurrences found in 0,214549 s
+Single task: Run no.  6: 1 occurrences found in 0,219155 s
+Single task: Run no.  7: 1 occurrences found in 0,219409 s
+Single task: Run no.  8: 1 occurrences found in 0,217946 s
+Single task: Run no.  9: 1 occurrences found in 0,223373 s
+Single task: Run no. 10: 1 occurrences found in 0,217141 s
+Single task: Run no. 11: 1 occurrences found in 0,221523 s
+Single task: Run no. 12: 1 occurrences found in 0,213600 s
+Single task: Run no. 13: 1 occurrences found in 0,212222 s
+Single task: Run no. 14: 1 occurrences found in 0,213070 s
+Single task: Run no. 15: 1 occurrences found in 0,213507 s
+Single task: Run no. 16: 1 occurrences found in 0,215620 s
+Single task: Run no. 17: 1 occurrences found in 0,217071 s
+Single task: Run no. 18: 1 occurrences found in 0,217590 s
+Single task: Run no. 19: 1 occurrences found in 0,219691 s
+
+Single task (avg.): 0,216970 s
+
+Using 18 tasks: Run no.  0: 1 occurrences found in 0,034307 s
+Using 18 tasks: Run no.  1: 1 occurrences found in 0,036345 s
+Using 18 tasks: Run no.  2: 1 occurrences found in 0,036386 s
+Using 18 tasks: Run no.  3: 1 occurrences found in 0,036824 s
+Using 18 tasks: Run no.  4: 1 occurrences found in 0,038218 s
+Using 18 tasks: Run no.  5: 1 occurrences found in 0,033388 s
+Using 18 tasks: Run no.  6: 1 occurrences found in 0,037377 s
+Using 18 tasks: Run no.  7: 1 occurrences found in 0,036842 s
+Using 18 tasks: Run no.  8: 1 occurrences found in 0,037032 s
+Using 18 tasks: Run no.  9: 1 occurrences found in 0,036757 s
+Using 18 tasks: Run no. 10: 1 occurrences found in 0,035569 s
+Using 18 tasks: Run no. 11: 1 occurrences found in 0,037077 s
+Using 18 tasks: Run no. 12: 1 occurrences found in 0,037819 s
+Using 18 tasks: Run no. 13: 1 occurrences found in 0,037369 s
+Using 18 tasks: Run no. 14: 1 occurrences found in 0,039736 s
+Using 18 tasks: Run no. 15: 1 occurrences found in 0,042431 s
+Using 18 tasks: Run no. 16: 1 occurrences found in 0,037487 s
+Using 18 tasks: Run no. 17: 1 occurrences found in 0,040367 s
+Using 18 tasks: Run no. 18: 1 occurrences found in 0,040834 s
+Using 18 tasks: Run no. 19: 1 occurrences found in 0,041217 s
+
+Using 18 tasks (avg.): 0,037669 s
+
+
+Average speedup: 5,76
+
+
+Process finished with exit code 0
+
+
+File=shakespeare.txt, length=5585488, pattern='And therefore as a stranger give it welcome.'
+ntasks=20, nthreads=1, warmups=2, runs=20
+executor: CACHED
+
+Single task: Run no.  0: 1 occurrences found in 0,237147 s
+Single task: Run no.  1: 1 occurrences found in 0,234145 s
+Single task: Run no.  2: 1 occurrences found in 0,233077 s
+Single task: Run no.  3: 1 occurrences found in 0,228325 s
+Single task: Run no.  4: 1 occurrences found in 0,232773 s
+Single task: Run no.  5: 1 occurrences found in 0,232029 s
+Single task: Run no.  6: 1 occurrences found in 0,230109 s
+Single task: Run no.  7: 1 occurrences found in 0,230994 s
+Single task: Run no.  8: 1 occurrences found in 0,228575 s
+Single task: Run no.  9: 1 occurrences found in 0,231777 s
+Single task: Run no. 10: 1 occurrences found in 0,236418 s
+Single task: Run no. 11: 1 occurrences found in 0,235592 s
+Single task: Run no. 12: 1 occurrences found in 0,230800 s
+Single task: Run no. 13: 1 occurrences found in 0,233298 s
+Single task: Run no. 14: 1 occurrences found in 0,231792 s
+Single task: Run no. 15: 1 occurrences found in 0,228078 s
+Single task: Run no. 16: 1 occurrences found in 0,230451 s
+Single task: Run no. 17: 1 occurrences found in 0,231000 s
+Single task: Run no. 18: 1 occurrences found in 0,230635 s
+Single task: Run no. 19: 1 occurrences found in 0,230072 s
+
+Single task (avg.): 0,231854 s
+
+Using 20 tasks: Run no.  0: 1 occurrences found in 0,036706 s
+Using 20 tasks: Run no.  1: 1 occurrences found in 0,035061 s
+Using 20 tasks: Run no.  2: 1 occurrences found in 0,035837 s
+Using 20 tasks: Run no.  3: 1 occurrences found in 0,035759 s
+Using 20 tasks: Run no.  4: 1 occurrences found in 0,037566 s
+Using 20 tasks: Run no.  5: 1 occurrences found in 0,037168 s
+Using 20 tasks: Run no.  6: 1 occurrences found in 0,037341 s
+Using 20 tasks: Run no.  7: 1 occurrences found in 0,037103 s
+Using 20 tasks: Run no.  8: 1 occurrences found in 0,037976 s
+Using 20 tasks: Run no.  9: 1 occurrences found in 0,037528 s
+Using 20 tasks: Run no. 10: 1 occurrences found in 0,036065 s
+Using 20 tasks: Run no. 11: 1 occurrences found in 0,035578 s
+Using 20 tasks: Run no. 12: 1 occurrences found in 0,035944 s
+Using 20 tasks: Run no. 13: 1 occurrences found in 0,036217 s
+Using 20 tasks: Run no. 14: 1 occurrences found in 0,036998 s
+Using 20 tasks: Run no. 15: 1 occurrences found in 0,037360 s
+Using 20 tasks: Run no. 16: 1 occurrences found in 0,038438 s
+Using 20 tasks: Run no. 17: 1 occurrences found in 0,037542 s
+Using 20 tasks: Run no. 18: 1 occurrences found in 0,031751 s
+Using 20 tasks: Run no. 19: 1 occurrences found in 0,035900 s
+
+Using 20 tasks (avg.): 0,036492 s
+
+
+Average speedup: 6,35
+
+
+Process finished with exit code 0
+
+
+File=shakespeare.txt, length=5585488, pattern='And therefore as a stranger give it welcome.'
+ntasks=30, nthreads=1, warmups=2, runs=20
+executor: CACHED
+
+Single task: Run no.  0: 1 occurrences found in 0,214269 s
+Single task: Run no.  1: 1 occurrences found in 0,211283 s
+Single task: Run no.  2: 1 occurrences found in 0,211761 s
+Single task: Run no.  3: 1 occurrences found in 0,212912 s
+Single task: Run no.  4: 1 occurrences found in 0,214524 s
+Single task: Run no.  5: 1 occurrences found in 0,210387 s
+Single task: Run no.  6: 1 occurrences found in 0,213631 s
+Single task: Run no.  7: 1 occurrences found in 0,215395 s
+Single task: Run no.  8: 1 occurrences found in 0,212599 s
+Single task: Run no.  9: 1 occurrences found in 0,215536 s
+Single task: Run no. 10: 1 occurrences found in 0,209903 s
+Single task: Run no. 11: 1 occurrences found in 0,211479 s
+Single task: Run no. 12: 1 occurrences found in 0,217484 s
+Single task: Run no. 13: 1 occurrences found in 0,210700 s
+Single task: Run no. 14: 1 occurrences found in 0,212866 s
+Single task: Run no. 15: 1 occurrences found in 0,213319 s
+Single task: Run no. 16: 1 occurrences found in 0,211482 s
+Single task: Run no. 17: 1 occurrences found in 0,211411 s
+Single task: Run no. 18: 1 occurrences found in 0,208498 s
+Single task: Run no. 19: 1 occurrences found in 0,211889 s
+
+Single task (avg.): 0,212566 s
+
+Using 30 tasks: Run no.  0: 1 occurrences found in 0,031863 s
+Using 30 tasks: Run no.  1: 1 occurrences found in 0,031934 s
+Using 30 tasks: Run no.  2: 1 occurrences found in 0,031428 s
+Using 30 tasks: Run no.  3: 1 occurrences found in 0,032340 s
+Using 30 tasks: Run no.  4: 1 occurrences found in 0,032830 s
+Using 30 tasks: Run no.  5: 1 occurrences found in 0,032649 s
+Using 30 tasks: Run no.  6: 1 occurrences found in 0,031454 s
+Using 30 tasks: Run no.  7: 1 occurrences found in 0,031239 s
+Using 30 tasks: Run no.  8: 1 occurrences found in 0,031744 s
+Using 30 tasks: Run no.  9: 1 occurrences found in 0,033519 s
+Using 30 tasks: Run no. 10: 1 occurrences found in 0,032786 s
+Using 30 tasks: Run no. 11: 1 occurrences found in 0,031519 s
+Using 30 tasks: Run no. 12: 1 occurrences found in 0,031413 s
+Using 30 tasks: Run no. 13: 1 occurrences found in 0,030465 s
+Using 30 tasks: Run no. 14: 1 occurrences found in 0,029551 s
+Using 30 tasks: Run no. 15: 1 occurrences found in 0,031304 s
+Using 30 tasks: Run no. 16: 1 occurrences found in 0,031953 s
+Using 30 tasks: Run no. 17: 1 occurrences found in 0,031440 s
+Using 30 tasks: Run no. 18: 1 occurrences found in 0,030408 s
+Using 30 tasks: Run no. 19: 1 occurrences found in 0,031294 s
+
+Using 30 tasks (avg.): 0,031657 s
+
+
+Average speedup: 6,71
+
+
+Process finished with exit code 0
+
+
+
+File=shakespeare.txt, length=5585488, pattern='And therefore as a stranger give it welcome.'
+ntasks=40, nthreads=1, warmups=2, runs=20
+executor: CACHED
+
+Single task: Run no.  0: 1 occurrences found in 0,226797 s
+Single task: Run no.  1: 1 occurrences found in 0,223476 s
+Single task: Run no.  2: 1 occurrences found in 0,222105 s
+Single task: Run no.  3: 1 occurrences found in 0,226599 s
+Single task: Run no.  4: 1 occurrences found in 0,222570 s
+Single task: Run no.  5: 1 occurrences found in 0,226780 s
+Single task: Run no.  6: 1 occurrences found in 0,224090 s
+Single task: Run no.  7: 1 occurrences found in 0,232118 s
+Single task: Run no.  8: 1 occurrences found in 0,236162 s
+Single task: Run no.  9: 1 occurrences found in 0,240622 s
+Single task: Run no. 10: 1 occurrences found in 0,235790 s
+Single task: Run no. 11: 1 occurrences found in 0,231850 s
+Single task: Run no. 12: 1 occurrences found in 0,229041 s
+Single task: Run no. 13: 1 occurrences found in 0,237273 s
+Single task: Run no. 14: 1 occurrences found in 0,227500 s
+Single task: Run no. 15: 1 occurrences found in 0,226539 s
+Single task: Run no. 16: 1 occurrences found in 0,228014 s
+Single task: Run no. 17: 1 occurrences found in 0,224984 s
+Single task: Run no. 18: 1 occurrences found in 0,228612 s
+Single task: Run no. 19: 1 occurrences found in 0,226330 s
+
+Single task (avg.): 0,228862 s
+
+Using 40 tasks: Run no.  0: 1 occurrences found in 0,035191 s
+Using 40 tasks: Run no.  1: 1 occurrences found in 0,035445 s
+Using 40 tasks: Run no.  2: 1 occurrences found in 0,030889 s
+Using 40 tasks: Run no.  3: 1 occurrences found in 0,030633 s
+Using 40 tasks: Run no.  4: 1 occurrences found in 0,032792 s
+Using 40 tasks: Run no.  5: 1 occurrences found in 0,035324 s
+Using 40 tasks: Run no.  6: 1 occurrences found in 0,033290 s
+Using 40 tasks: Run no.  7: 1 occurrences found in 0,036437 s
+Using 40 tasks: Run no.  8: 1 occurrences found in 0,034386 s
+Using 40 tasks: Run no.  9: 1 occurrences found in 0,035164 s
+Using 40 tasks: Run no. 10: 1 occurrences found in 0,035918 s
+Using 40 tasks: Run no. 11: 1 occurrences found in 0,036484 s
+Using 40 tasks: Run no. 12: 1 occurrences found in 0,035500 s
+Using 40 tasks: Run no. 13: 1 occurrences found in 0,035215 s
+Using 40 tasks: Run no. 14: 1 occurrences found in 0,031346 s
+Using 40 tasks: Run no. 15: 1 occurrences found in 0,035895 s
+Using 40 tasks: Run no. 16: 1 occurrences found in 0,032074 s
+Using 40 tasks: Run no. 17: 1 occurrences found in 0,034019 s
+Using 40 tasks: Run no. 18: 1 occurrences found in 0,036703 s
+Using 40 tasks: Run no. 19: 1 occurrences found in 0,032356 s
+
+Using 40 tasks (avg.): 0,034253 s
+
+
+Average speedup: 6,68
+
+
+Process finished with exit code 0
+
+
+File=shakespeare.txt, length=5585488, pattern='And therefore as a stranger give it welcome.'
+ntasks=50, nthreads=1, warmups=2, runs=20
+executor: CACHED
+
+Single task: Run no.  0: 1 occurrences found in 0,230546 s
+Single task: Run no.  1: 1 occurrences found in 0,228916 s
+Single task: Run no.  2: 1 occurrences found in 0,226152 s
+Single task: Run no.  3: 1 occurrences found in 0,227762 s
+Single task: Run no.  4: 1 occurrences found in 0,227647 s
+Single task: Run no.  5: 1 occurrences found in 0,226005 s
+Single task: Run no.  6: 1 occurrences found in 0,231349 s
+Single task: Run no.  7: 1 occurrences found in 0,225028 s
+Single task: Run no.  8: 1 occurrences found in 0,226747 s
+Single task: Run no.  9: 1 occurrences found in 0,222901 s
+Single task: Run no. 10: 1 occurrences found in 0,225494 s
+Single task: Run no. 11: 1 occurrences found in 0,229254 s
+Single task: Run no. 12: 1 occurrences found in 0,230890 s
+Single task: Run no. 13: 1 occurrences found in 0,224515 s
+Single task: Run no. 14: 1 occurrences found in 0,226845 s
+Single task: Run no. 15: 1 occurrences found in 0,226037 s
+Single task: Run no. 16: 1 occurrences found in 0,224090 s
+Single task: Run no. 17: 1 occurrences found in 0,227113 s
+Single task: Run no. 18: 1 occurrences found in 0,225273 s
+Single task: Run no. 19: 1 occurrences found in 0,224117 s
+
+Single task (avg.): 0,226834 s
+
+Using 50 tasks: Run no.  0: 1 occurrences found in 0,033266 s
+Using 50 tasks: Run no.  1: 1 occurrences found in 0,032036 s
+Using 50 tasks: Run no.  2: 1 occurrences found in 0,032706 s
+Using 50 tasks: Run no.  3: 1 occurrences found in 0,032968 s
+Using 50 tasks: Run no.  4: 1 occurrences found in 0,032641 s
+Using 50 tasks: Run no.  5: 1 occurrences found in 0,033417 s
+Using 50 tasks: Run no.  6: 1 occurrences found in 0,032288 s
+Using 50 tasks: Run no.  7: 1 occurrences found in 0,033040 s
+Using 50 tasks: Run no.  8: 1 occurrences found in 0,032774 s
+Using 50 tasks: Run no.  9: 1 occurrences found in 0,032658 s
+Using 50 tasks: Run no. 10: 1 occurrences found in 0,032125 s
+Using 50 tasks: Run no. 11: 1 occurrences found in 0,032813 s
+Using 50 tasks: Run no. 12: 1 occurrences found in 0,032817 s
+Using 50 tasks: Run no. 13: 1 occurrences found in 0,032905 s
+Using 50 tasks: Run no. 14: 1 occurrences found in 0,032238 s
+Using 50 tasks: Run no. 15: 1 occurrences found in 0,031692 s
+Using 50 tasks: Run no. 16: 1 occurrences found in 0,033381 s
+Using 50 tasks: Run no. 17: 1 occurrences found in 0,031794 s
+Using 50 tasks: Run no. 18: 1 occurrences found in 0,032740 s
+Using 50 tasks: Run no. 19: 1 occurrences found in 0,033787 s
+
+Using 50 tasks (avg.): 0,032704 s
+
+
+Average speedup: 6,94
+
+
+Process finished with exit code 0
+
+
+File=shakespeare.txt, length=5585488, pattern='And therefore as a stranger give it welcome.'
+ntasks=100, nthreads=1, warmups=2, runs=20
+executor: CACHED
+
+Single task: Run no.  0: 1 occurrences found in 0,234027 s
+Single task: Run no.  1: 1 occurrences found in 0,231376 s
+Single task: Run no.  2: 1 occurrences found in 0,229741 s
+Single task: Run no.  3: 1 occurrences found in 0,228989 s
+Single task: Run no.  4: 1 occurrences found in 0,230236 s
+Single task: Run no.  5: 1 occurrences found in 0,235278 s
+Single task: Run no.  6: 1 occurrences found in 0,232545 s
+Single task: Run no.  7: 1 occurrences found in 0,228780 s
+Single task: Run no.  8: 1 occurrences found in 0,233844 s
+Single task: Run no.  9: 1 occurrences found in 0,232479 s
+Single task: Run no. 10: 1 occurrences found in 0,233028 s
+Single task: Run no. 11: 1 occurrences found in 0,231658 s
+Single task: Run no. 12: 1 occurrences found in 0,229175 s
+Single task: Run no. 13: 1 occurrences found in 0,231313 s
+Single task: Run no. 14: 1 occurrences found in 0,228693 s
+Single task: Run no. 15: 1 occurrences found in 0,231434 s
+Single task: Run no. 16: 1 occurrences found in 0,230085 s
+Single task: Run no. 17: 1 occurrences found in 0,229581 s
+Single task: Run no. 18: 1 occurrences found in 0,229012 s
+Single task: Run no. 19: 1 occurrences found in 0,231537 s
+
+Single task (avg.): 0,231141 s
+
+Using 100 tasks: Run no.  0: 1 occurrences found in 0,031594 s
+Using 100 tasks: Run no.  1: 1 occurrences found in 0,032254 s
+Using 100 tasks: Run no.  2: 1 occurrences found in 0,031460 s
+Using 100 tasks: Run no.  3: 1 occurrences found in 0,031760 s
+Using 100 tasks: Run no.  4: 1 occurrences found in 0,031693 s
+Using 100 tasks: Run no.  5: 1 occurrences found in 0,032275 s
+Using 100 tasks: Run no.  6: 1 occurrences found in 0,030921 s
+Using 100 tasks: Run no.  7: 1 occurrences found in 0,034408 s
+Using 100 tasks: Run no.  8: 1 occurrences found in 0,031641 s
+Using 100 tasks: Run no.  9: 1 occurrences found in 0,030999 s
+Using 100 tasks: Run no. 10: 1 occurrences found in 0,031965 s
+Using 100 tasks: Run no. 11: 1 occurrences found in 0,031757 s
+Using 100 tasks: Run no. 12: 1 occurrences found in 0,031734 s
+Using 100 tasks: Run no. 13: 1 occurrences found in 0,032344 s
+Using 100 tasks: Run no. 14: 1 occurrences found in 0,031199 s
+Using 100 tasks: Run no. 15: 1 occurrences found in 0,032904 s
+Using 100 tasks: Run no. 16: 1 occurrences found in 0,031227 s
+Using 100 tasks: Run no. 17: 1 occurrences found in 0,031028 s
+Using 100 tasks: Run no. 18: 1 occurrences found in 0,032813 s
+Using 100 tasks: Run no. 19: 1 occurrences found in 0,031977 s
+
+Using 100 tasks (avg.): 0,031898 s
+
+
+Average speedup: 7,25
+
+
+Process finished with exit code 0
+
+
+File=shakespeare.txt, length=5585488, pattern='And therefore as a stranger give it welcome.'
+ntasks=200, nthreads=1, warmups=2, runs=20
+executor: CACHED
+
+Single task: Run no.  0: 1 occurrences found in 0,215326 s
+Single task: Run no.  1: 1 occurrences found in 0,215325 s
+Single task: Run no.  2: 1 occurrences found in 0,216556 s
+Single task: Run no.  3: 1 occurrences found in 0,217629 s
+Single task: Run no.  4: 1 occurrences found in 0,213929 s
+Single task: Run no.  5: 1 occurrences found in 0,213687 s
+Single task: Run no.  6: 1 occurrences found in 0,217152 s
+Single task: Run no.  7: 1 occurrences found in 0,213711 s
+Single task: Run no.  8: 1 occurrences found in 0,216084 s
+Single task: Run no.  9: 1 occurrences found in 0,216721 s
+Single task: Run no. 10: 1 occurrences found in 0,212931 s
+Single task: Run no. 11: 1 occurrences found in 0,221600 s
+Single task: Run no. 12: 1 occurrences found in 0,212227 s
+Single task: Run no. 13: 1 occurrences found in 0,216302 s
+Single task: Run no. 14: 1 occurrences found in 0,218909 s
+Single task: Run no. 15: 1 occurrences found in 0,221569 s
+Single task: Run no. 16: 1 occurrences found in 0,217920 s
+Single task: Run no. 17: 1 occurrences found in 0,218339 s
+Single task: Run no. 18: 1 occurrences found in 0,214702 s
+Single task: Run no. 19: 1 occurrences found in 0,218710 s
+
+Single task (avg.): 0,216466 s
+
+Using 200 tasks: Run no.  0: 1 occurrences found in 0,030066 s
+Using 200 tasks: Run no.  1: 1 occurrences found in 0,028578 s
+Using 200 tasks: Run no.  2: 1 occurrences found in 0,029676 s
+Using 200 tasks: Run no.  3: 1 occurrences found in 0,028436 s
+Using 200 tasks: Run no.  4: 1 occurrences found in 0,028813 s
+Using 200 tasks: Run no.  5: 1 occurrences found in 0,030862 s
+Using 200 tasks: Run no.  6: 1 occurrences found in 0,030100 s
+Using 200 tasks: Run no.  7: 1 occurrences found in 0,028927 s
+Using 200 tasks: Run no.  8: 1 occurrences found in 0,028772 s
+Using 200 tasks: Run no.  9: 1 occurrences found in 0,028549 s
+Using 200 tasks: Run no. 10: 1 occurrences found in 0,028827 s
+Using 200 tasks: Run no. 11: 1 occurrences found in 0,030397 s
+Using 200 tasks: Run no. 12: 1 occurrences found in 0,028901 s
+Using 200 tasks: Run no. 13: 1 occurrences found in 0,030865 s
+Using 200 tasks: Run no. 14: 1 occurrences found in 0,029065 s
+Using 200 tasks: Run no. 15: 1 occurrences found in 0,030328 s
+Using 200 tasks: Run no. 16: 1 occurrences found in 0,028178 s
+Using 200 tasks: Run no. 17: 1 occurrences found in 0,029256 s
+Using 200 tasks: Run no. 18: 1 occurrences found in 0,029006 s
+Using 200 tasks: Run no. 19: 1 occurrences found in 0,029525 s
+
+Using 200 tasks (avg.): 0,029356 s
+
+
+Average speedup: 7,37
+
+
+Process finished with exit code 0
+

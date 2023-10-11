@@ -1,0 +1,574 @@
+Problem 2
+
+[FIGURE 2.1]
+
+File=shakespeare.txt, length=5585488, pattern='And therefore as a stranger give it welcome.'
+ntasks=1, nthreads=1, warmups=2, runs=20
+executor: SINGLE
+
+Single task: Run no.  0: 1 occurrences found in 0,218485 s
+Single task: Run no.  1: 1 occurrences found in 0,218738 s
+Single task: Run no.  2: 1 occurrences found in 0,215373 s
+Single task: Run no.  3: 1 occurrences found in 0,224786 s
+Single task: Run no.  4: 1 occurrences found in 0,216639 s
+Single task: Run no.  5: 1 occurrences found in 0,213636 s
+Single task: Run no.  6: 1 occurrences found in 0,213682 s
+Single task: Run no.  7: 1 occurrences found in 0,216025 s
+Single task: Run no.  8: 1 occurrences found in 0,214683 s
+Single task: Run no.  9: 1 occurrences found in 0,218065 s
+Single task: Run no. 10: 1 occurrences found in 0,217997 s
+Single task: Run no. 11: 1 occurrences found in 0,211621 s
+Single task: Run no. 12: 1 occurrences found in 0,217416 s
+Single task: Run no. 13: 1 occurrences found in 0,214516 s
+Single task: Run no. 14: 1 occurrences found in 0,216302 s
+Single task: Run no. 15: 1 occurrences found in 0,230628 s
+Single task: Run no. 16: 1 occurrences found in 0,227144 s
+Single task: Run no. 17: 1 occurrences found in 0,225653 s
+Single task: Run no. 18: 1 occurrences found in 0,218063 s
+Single task: Run no. 19: 1 occurrences found in 0,217369 s
+
+Single task (avg.): 0,218341 s
+
+Using  1 tasks: Run no.  0: 1 occurrences found in 0,222550 s
+Using  1 tasks: Run no.  1: 1 occurrences found in 0,220413 s
+Using  1 tasks: Run no.  2: 1 occurrences found in 0,218918 s
+Using  1 tasks: Run no.  3: 1 occurrences found in 0,216123 s
+Using  1 tasks: Run no.  4: 1 occurrences found in 0,218956 s
+Using  1 tasks: Run no.  5: 1 occurrences found in 0,215982 s
+Using  1 tasks: Run no.  6: 1 occurrences found in 0,215366 s
+Using  1 tasks: Run no.  7: 1 occurrences found in 0,212436 s
+Using  1 tasks: Run no.  8: 1 occurrences found in 0,218495 s
+Using  1 tasks: Run no.  9: 1 occurrences found in 0,223934 s
+Using  1 tasks: Run no. 10: 1 occurrences found in 0,218459 s
+Using  1 tasks: Run no. 11: 1 occurrences found in 0,211026 s
+Using  1 tasks: Run no. 12: 1 occurrences found in 0,216000 s
+Using  1 tasks: Run no. 13: 1 occurrences found in 0,222373 s
+Using  1 tasks: Run no. 14: 1 occurrences found in 0,223623 s
+Using  1 tasks: Run no. 15: 1 occurrences found in 0,222159 s
+Using  1 tasks: Run no. 16: 1 occurrences found in 0,220180 s
+Using  1 tasks: Run no. 17: 1 occurrences found in 0,219449 s
+Using  1 tasks: Run no. 18: 1 occurrences found in 0,220035 s
+Using  1 tasks: Run no. 19: 1 occurrences found in 0,214444 s
+
+Using  1 tasks (avg.): 0,218546 s
+
+
+Average speedup: 1,00
+
+
+Process finished with exit code 0
+
+
+
+
+File=shakespeare.txt, length=5585488, pattern='And therefore as a stranger give it welcome.'
+ntasks=2, nthreads=1, warmups=2, runs=20
+executor: SINGLE
+
+Single task: Run no.  0: 1 occurrences found in 0,218728 s
+Single task: Run no.  1: 1 occurrences found in 0,218934 s
+Single task: Run no.  2: 1 occurrences found in 0,220718 s
+Single task: Run no.  3: 1 occurrences found in 0,214094 s
+Single task: Run no.  4: 1 occurrences found in 0,217430 s
+Single task: Run no.  5: 1 occurrences found in 0,219917 s
+Single task: Run no.  6: 1 occurrences found in 0,217662 s
+Single task: Run no.  7: 1 occurrences found in 0,212106 s
+Single task: Run no.  8: 1 occurrences found in 0,221951 s
+Single task: Run no.  9: 1 occurrences found in 0,221373 s
+Single task: Run no. 10: 1 occurrences found in 0,218580 s
+Single task: Run no. 11: 1 occurrences found in 0,216864 s
+Single task: Run no. 12: 1 occurrences found in 0,216669 s
+Single task: Run no. 13: 1 occurrences found in 0,218829 s
+Single task: Run no. 14: 1 occurrences found in 0,214776 s
+Single task: Run no. 15: 1 occurrences found in 0,220125 s
+Single task: Run no. 16: 1 occurrences found in 0,220919 s
+Single task: Run no. 17: 1 occurrences found in 0,217612 s
+Single task: Run no. 18: 1 occurrences found in 0,214230 s
+Single task: Run no. 19: 1 occurrences found in 0,218507 s
+
+Single task (avg.): 0,218001 s
+
+Using  2 tasks: Run no.  0: 1 occurrences found in 0,219247 s
+Using  2 tasks: Run no.  1: 1 occurrences found in 0,220716 s
+Using  2 tasks: Run no.  2: 1 occurrences found in 0,219375 s
+Using  2 tasks: Run no.  3: 1 occurrences found in 0,216976 s
+Using  2 tasks: Run no.  4: 1 occurrences found in 0,218050 s
+Using  2 tasks: Run no.  5: 1 occurrences found in 0,219142 s
+Using  2 tasks: Run no.  6: 1 occurrences found in 0,217388 s
+Using  2 tasks: Run no.  7: 1 occurrences found in 0,217947 s
+Using  2 tasks: Run no.  8: 1 occurrences found in 0,219020 s
+Using  2 tasks: Run no.  9: 1 occurrences found in 0,213902 s
+Using  2 tasks: Run no. 10: 1 occurrences found in 0,214092 s
+Using  2 tasks: Run no. 11: 1 occurrences found in 0,216648 s
+Using  2 tasks: Run no. 12: 1 occurrences found in 0,216226 s
+Using  2 tasks: Run no. 13: 1 occurrences found in 0,218381 s
+Using  2 tasks: Run no. 14: 1 occurrences found in 0,220010 s
+Using  2 tasks: Run no. 15: 1 occurrences found in 0,213950 s
+Using  2 tasks: Run no. 16: 1 occurrences found in 0,217633 s
+Using  2 tasks: Run no. 17: 1 occurrences found in 0,216263 s
+Using  2 tasks: Run no. 18: 1 occurrences found in 0,214689 s
+Using  2 tasks: Run no. 19: 1 occurrences found in 0,219630 s
+
+Using  2 tasks (avg.): 0,217464 s
+
+
+Average speedup: 1,00
+
+
+Process finished with exit code 0
+
+
+[FIGURE 2.3]
+
+File=shakespeare.txt, length=5585488, pattern='And therefore as a stranger give it welcome.'
+ntasks=3, nthreads=1, warmups=2, runs=20
+executor: SINGLE
+
+Single task: Run no.  0: 1 occurrences found in 0,229537 s
+Single task: Run no.  1: 1 occurrences found in 0,229747 s
+Single task: Run no.  2: 1 occurrences found in 0,228908 s
+Single task: Run no.  3: 1 occurrences found in 0,226771 s
+Single task: Run no.  4: 1 occurrences found in 0,231740 s
+Single task: Run no.  5: 1 occurrences found in 0,226627 s
+Single task: Run no.  6: 1 occurrences found in 0,230636 s
+Single task: Run no.  7: 1 occurrences found in 0,226427 s
+Single task: Run no.  8: 1 occurrences found in 0,234416 s
+Single task: Run no.  9: 1 occurrences found in 0,229863 s
+Single task: Run no. 10: 1 occurrences found in 0,224475 s
+Single task: Run no. 11: 1 occurrences found in 0,225022 s
+Single task: Run no. 12: 1 occurrences found in 0,224943 s
+Single task: Run no. 13: 1 occurrences found in 0,228802 s
+Single task: Run no. 14: 1 occurrences found in 0,225590 s
+Single task: Run no. 15: 1 occurrences found in 0,225447 s
+Single task: Run no. 16: 1 occurrences found in 0,225919 s
+Single task: Run no. 17: 1 occurrences found in 0,226413 s
+Single task: Run no. 18: 1 occurrences found in 0,225429 s
+Single task: Run no. 19: 1 occurrences found in 0,232236 s
+
+Single task (avg.): 0,227947 s
+
+Using  3 tasks: Run no.  0: 1 occurrences found in 0,226217 s
+Using  3 tasks: Run no.  1: 1 occurrences found in 0,225703 s
+Using  3 tasks: Run no.  2: 1 occurrences found in 0,224586 s
+Using  3 tasks: Run no.  3: 1 occurrences found in 0,229305 s
+Using  3 tasks: Run no.  4: 1 occurrences found in 0,228658 s
+Using  3 tasks: Run no.  5: 1 occurrences found in 0,224418 s
+Using  3 tasks: Run no.  6: 1 occurrences found in 0,230179 s
+Using  3 tasks: Run no.  7: 1 occurrences found in 0,229343 s
+Using  3 tasks: Run no.  8: 1 occurrences found in 0,230523 s
+Using  3 tasks: Run no.  9: 1 occurrences found in 0,223820 s
+Using  3 tasks: Run no. 10: 1 occurrences found in 0,226716 s
+Using  3 tasks: Run no. 11: 1 occurrences found in 0,230869 s
+Using  3 tasks: Run no. 12: 1 occurrences found in 0,228111 s
+Using  3 tasks: Run no. 13: 1 occurrences found in 0,228103 s
+Using  3 tasks: Run no. 14: 1 occurrences found in 0,225917 s
+Using  3 tasks: Run no. 15: 1 occurrences found in 0,226739 s
+Using  3 tasks: Run no. 16: 1 occurrences found in 0,228923 s
+Using  3 tasks: Run no. 17: 1 occurrences found in 0,227815 s
+Using  3 tasks: Run no. 18: 1 occurrences found in 0,229133 s
+Using  3 tasks: Run no. 19: 1 occurrences found in 0,234567 s
+
+Using  3 tasks (avg.): 0,227982 s
+
+
+Average speedup: 1,00
+
+
+Process finished with exit code 0
+
+
+
+File=shakespeare.txt, length=5585488, pattern='And therefore as a stranger give it welcome.'
+ntasks=4, nthreads=1, warmups=2, runs=20
+executor: SINGLE
+
+Single task: Run no.  0: 1 occurrences found in 0,217782 s
+Single task: Run no.  1: 1 occurrences found in 0,218178 s
+Single task: Run no.  2: 1 occurrences found in 0,218247 s
+Single task: Run no.  3: 1 occurrences found in 0,218958 s
+Single task: Run no.  4: 1 occurrences found in 0,219075 s
+Single task: Run no.  5: 1 occurrences found in 0,217394 s
+Single task: Run no.  6: 1 occurrences found in 0,218751 s
+Single task: Run no.  7: 1 occurrences found in 0,214920 s
+Single task: Run no.  8: 1 occurrences found in 0,217794 s
+Single task: Run no.  9: 1 occurrences found in 0,215584 s
+Single task: Run no. 10: 1 occurrences found in 0,213692 s
+Single task: Run no. 11: 1 occurrences found in 0,215171 s
+Single task: Run no. 12: 1 occurrences found in 0,216534 s
+Single task: Run no. 13: 1 occurrences found in 0,220415 s
+Single task: Run no. 14: 1 occurrences found in 0,218028 s
+Single task: Run no. 15: 1 occurrences found in 0,218381 s
+Single task: Run no. 16: 1 occurrences found in 0,215139 s
+Single task: Run no. 17: 1 occurrences found in 0,214367 s
+Single task: Run no. 18: 1 occurrences found in 0,217837 s
+Single task: Run no. 19: 1 occurrences found in 0,214725 s
+
+Single task (avg.): 0,217049 s
+
+Using  4 tasks: Run no.  0: 1 occurrences found in 0,215641 s
+Using  4 tasks: Run no.  1: 1 occurrences found in 0,218938 s
+Using  4 tasks: Run no.  2: 1 occurrences found in 0,219029 s
+Using  4 tasks: Run no.  3: 1 occurrences found in 0,218690 s
+Using  4 tasks: Run no.  4: 1 occurrences found in 0,220120 s
+Using  4 tasks: Run no.  5: 1 occurrences found in 0,215926 s
+Using  4 tasks: Run no.  6: 1 occurrences found in 0,220107 s
+Using  4 tasks: Run no.  7: 1 occurrences found in 0,216972 s
+Using  4 tasks: Run no.  8: 1 occurrences found in 0,219897 s
+Using  4 tasks: Run no.  9: 1 occurrences found in 0,216381 s
+Using  4 tasks: Run no. 10: 1 occurrences found in 0,217280 s
+Using  4 tasks: Run no. 11: 1 occurrences found in 0,216769 s
+Using  4 tasks: Run no. 12: 1 occurrences found in 0,219339 s
+Using  4 tasks: Run no. 13: 1 occurrences found in 0,217697 s
+Using  4 tasks: Run no. 14: 1 occurrences found in 0,220325 s
+Using  4 tasks: Run no. 15: 1 occurrences found in 0,215777 s
+Using  4 tasks: Run no. 16: 1 occurrences found in 0,216880 s
+Using  4 tasks: Run no. 17: 1 occurrences found in 0,215101 s
+Using  4 tasks: Run no. 18: 1 occurrences found in 0,215383 s
+Using  4 tasks: Run no. 19: 1 occurrences found in 0,215717 s
+
+Using  4 tasks (avg.): 0,217598 s
+
+
+Average speedup: 1,00
+
+
+Process finished with exit code 0
+
+
+//++++++CODE FROM HERE+++++++++++++++++++++++++++++++++++++++++++
+
+
+/*
+ * 02158 Concurrent Programming
+ * Mandatory Assignment 1
+ * Version 1.3
+ */
+
+
+import java.util.*;
+import java.util.concurrent.Callable;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+import java.util.concurrent.Future;
+import java.io.*;
+
+/**
+ * Search task. No need to modify.
+ */
+class SearchTask implements Callable<List<Integer>> {
+
+    char[] text, pattern;
+    int from = 0, to = 0; // Searched string: text[from..(to-1)]
+
+    /**
+     * Create a task for searching occurrences of 'pattern' in the substring
+     * text[from..(to-1)]
+     */
+    public SearchTask(char[] text, char[] pattern, int from, int to) {
+        this.text = text;
+        this.pattern = pattern;
+        this.from = from;
+        this.to = to;
+    }
+
+    public List<Integer> call() {
+        final int pl = pattern.length;
+        List<Integer> result = new LinkedList<Integer>();
+
+        // VERY naive string matching to consume some CPU-cycles
+        for (int i = from; i <= to - pl; i++) {
+            boolean eq = true;
+            for (int j = 0; j < pl; j++) {
+                if (text[i + j] != pattern[j])
+                    eq = false; // We really should break here
+            }
+            if (eq)
+                result.add(i);
+        }
+
+        return result;
+    }
+}
+
+
+enum Mode { SINGLE, CACHED, FIXED };
+
+
+public class Search {
+
+    enum Mode { SINGLE, CACHED, FIXED };
+
+    static final int max = 10000000;            // Max no. of chars searched
+
+    static char[] text = new char[max];         // file to be searched
+    static int len;                             // Length of actual text
+    static String fname;                        // Text file name
+    static char[] pattern;                      // Search pattern
+    static int ntasks = 4;                      // No. of tasks
+    static int nthreads = 1;                    // No. of threads to use
+    static boolean printPos = false;            // Print all positions found
+    static int warmups = 0;                     // No. of warmup searches
+    static int runs = 1;                        // No. of search repetitions
+    static String  datafile;                    // Name of data file
+    static Mode execMode = Mode.SINGLE;         // Kind of executor   
+
+    static void getArguments(String[] argv) {
+        // Reads arguments into static variables
+        try {
+            int i = 0;
+
+            if (argv.length < 2)
+                throw new Exception("Too few arguments");
+
+            while (i < argv.length) {
+
+                /* Check for options */
+                if (argv[i].equals("-P")) {
+                    printPos = true;
+                    i++;
+                    continue;
+                }
+
+                if (argv[i].equals("-R")) {
+                    runs = Integer.valueOf(argv[i+1]);
+                    i += 2;
+                    continue;
+                }
+
+                if (argv[i].equals("-W")) {
+                    warmups = Integer.valueOf(argv[i+1]);
+                    i += 2;
+                    continue;
+                }
+
+                if (argv[i].equals("-d")) {
+                    datafile = argv[i+1];
+                    i += 2;
+                    continue;
+                }
+
+                if (argv[i].equals("-Es")) {
+                    execMode = Mode.SINGLE;
+                    i++;
+                    continue;
+                }
+
+                if (argv[i].equals("-Ec")) {
+                    execMode = Mode.CACHED;
+                    i++;
+                    continue;
+                }
+
+                if (argv[i].equals("-Ef")) {
+                    execMode = Mode.FIXED;
+                    i++;
+                    continue;
+                }
+
+                /* Handle positional parameters */
+                fname = argv[i];
+                pattern = argv[i + 1].toCharArray();
+                i += 2;
+
+                if (argv.length > i) {
+                    ntasks = Integer.valueOf(argv[i]);
+                    i++;
+                }
+
+                if (argv.length > i) {
+                    nthreads = Integer.valueOf(argv[i]);
+                    i++;
+                }
+
+                if (argv.length > i)
+                    throw new Exception("Too many arguments");
+            }
+
+            /* Read file into memory */
+            InputStreamReader file = new InputStreamReader(new FileInputStream(fname));
+
+            Arrays.fill(text, '.');
+            len = file.read(text);
+
+            if (file.read() >= 0)
+                System.out.println("\nWarning: file truncated to " + max + " characters\n");
+
+            if (ntasks <= 0 || nthreads <= 0 || pattern.length <= 0 || warmups <0 || runs <= 0)
+                throw new Exception("Illegal argument(s)");
+
+        } catch (Exception e) {
+            System.out.print(e + "\n\nUsage:   java Search <options> file pattern [ntasks [nthreads]] \n\n"
+                    + "  where: 0 < nthreads, 0 < ntasks, 0 < size(pattern)\n" + "  Options: \n"
+                    + "    -P           Print found positions\n"
+                    + "    -W w         Make w warmup searches (w >=0)\n"
+                    + "    -R r         Run the search n times (r > 0)\n"
+                    + "    -d datafile  Define datafile\n"
+                    + "    -Es          Single-threaded executor\n"
+                    + "    -Ec          Cached multi-threaded executor\n"
+                    + "    -Ef          Fixed-size thread executor\n"
+                    + "\n");
+            System.exit(1);
+        }
+    }
+
+    static void writeResult(List<Integer> res) {
+        System.out.print("" + res.size() + " occurrences found in ");
+        if (printPos) {
+            int i = 0;
+            System.out.println();
+            for (int pos : res) {
+                System.out.printf(" %6d", pos);
+                if (++i % 10 == 0)
+                    System.out.println();
+            }
+            System.out.println();
+        }
+    }
+
+    static void writeTime(double time) {
+        System.out.printf("%1.6f s", time);
+    }
+
+    static void writeRun(int no) {
+        System.out.printf("Run no. %2d: ", no);
+    }
+
+    static void writeData(String s) {
+        try {
+            if (datafile != null) {
+                // Append result to data file
+                FileWriter f = new FileWriter(datafile,true);
+                PrintWriter data =  new PrintWriter(new BufferedWriter(f));
+                data.println(s);
+                data.close();
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public static void main(String[] argv) {
+        try {
+            long start;
+            double time, totalTime = 0.0;
+
+            /* Get and print program parameters */
+            getArguments(argv);
+            System.out.printf("\nFile=%s, length=%d, pattern='%s'\nntasks=%d, nthreads=%d, warmups=%d, runs=%d\nexecutor: %s\n" ,
+                    fname, len, new String(pattern), ntasks, nthreads, warmups, runs, execMode.toString());
+
+            /* Setup selected execution engine */
+            ExecutorService engine = execMode == Mode.SINGLE ? Executors.newSingleThreadExecutor()   :
+                    execMode == Mode.CACHED ? Executors.newCachedThreadPool()       :
+                            /* Mode.FIXED */ Executors.newFixedThreadPool(nthreads);
+
+            /**********************************************
+             * Run search using a single task
+             *********************************************/
+            SearchTask singleSearch = new SearchTask(text, pattern, 0, len);
+
+            List<Integer> singleResult = null;
+
+            /*
+             * Run a couple of times on engine for loading all classes and
+             * cache warm-up
+             */
+            for (int i = 0; i < warmups; i++) {
+                engine.submit(singleSearch).get();
+            }
+
+            /* Run for time measurement(s) and proper result */
+            totalTime = 0.0;
+
+            for (int run = 0; run < runs; run++) {
+                start = System.nanoTime();
+
+                singleResult = engine.submit(singleSearch).get();
+
+                time = (double) (System.nanoTime() - start) / 1e9;
+                totalTime += time;
+
+                System.out.print("\nSingle task: ");
+                writeRun(run);  writeResult(singleResult);  writeTime(time);
+            }
+
+            double singleTime = totalTime / runs;
+            System.out.print("\n\nSingle task (avg.): ");
+            writeTime(singleTime);  System.out.println();
+
+
+            /**********************************************
+             * Run search using multiple tasks
+             *********************************************/
+
+
+         
+            // Create list of tasks
+            List<SearchTask> taskList = new ArrayList<SearchTask>();
+            
+            // TODO: Add tasks to list here
+            ntasks = Math.min(ntasks, len); // not allowed to have more tasks than the length or else we will be dividing variables which is not possible.
+            int patternLength = pattern.length-1; // -1 from pattern length to avoid duplicates
+
+            for (int i = 0; i < ntasks; i++) {
+                SearchTask taskRange = new SearchTask(text, pattern,
+                        i * len / ntasks,
+                        Math.min(len, patternLength + (i+1)* len / ntasks));
+                taskList.add(taskRange);
+            }
+
+            List<Integer> result = null;
+            
+            // Run the tasks a couple of times
+            for (int i = 0; i < warmups; i++) {
+                engine.invokeAll(taskList);
+            }
+            
+            totalTime = 0.0;
+            
+            for (int run = 0; run < runs; run++) {
+
+                start = System.nanoTime();
+
+                // Submit tasks and await results
+                List<Future<List<Integer>>> futures = engine.invokeAll(taskList);
+
+                // Overall result is an ordered list of unique occurrence positions
+                result = new LinkedList<Integer>();
+                
+                // TODO: Combine future results into an overall result 
+                for (Future<List<Integer>> future : futures) {
+                    result.addAll(future.get());
+                }
+
+                time = (double) (System.nanoTime() - start) / 1e9;
+                totalTime += time;    
+                
+                System.out.printf("\nUsing %2d tasks: ", ntasks);
+                writeRun(run);  writeResult(result);  writeTime(time);
+            }
+
+            double multiTime = totalTime / runs;
+            System.out.printf("\n\nUsing %2d tasks (avg.): ", ntasks); 
+            writeTime(multiTime);  System.out.println();
+
+            
+            if (!singleResult.equals(result)) {
+                System.out.println("\nERROR: lists differ");
+            }
+            System.out.printf("\n\nAverage speedup: %1.2f\n\n", singleTime / multiTime);
+
+
+
+            /**********************************************
+             * Terminate engine after use
+             *********************************************/
+            engine.shutdown();
+
+        } catch (Exception e) {
+            System.out.println("Search: " + e);
+        }
+    }
+}
+
+
